@@ -2,7 +2,7 @@
 title: "Utility e comandi Software"
 linkTitle: "Utility e comandi Software"
 weight: 20
-mermaid: true
+mermaid: false
 ---
 
 - [ncdu]: NCurses Disk Usage. Ncdu is a disk usage analyzer with an ncurses interface.
