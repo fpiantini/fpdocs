@@ -4,4 +4,5 @@ node_modules/
 tech-doc-hugo
 package*json
 *.tar.gz
+deploy.sh
 
