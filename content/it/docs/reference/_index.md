@@ -1,7 +1,7 @@
 ---
 title: "Reference material"
 linkTitle: "Reference material"
-weight: 20
+weight: 10
 ---
 
 Reference material.

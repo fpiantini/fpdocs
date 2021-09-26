@@ -1,7 +1,7 @@
 ---
 title: "Links - Programming"
 linkTitle: "Links - Programming"
-weight: 20
+weight: 10
 mermaid: false
 ---
 
