@@ -15,7 +15,9 @@ mermaid: false
 
 ### Markdown
 
-- [DocToc](https://github.com/thlorenz/doctoc): Generates table of contents for markdown files inside local git repository.
+- [Hugo](https://gohugo.io/documentation/): documentation for the Hugo framework.
+- [Hugo Docsy Theme](https://www.docsy.dev/docs/): documentation for the Hugo Docsy theme used as a template for this site.
+- [DocToc](https://github.com/thlorenz/doctoc): generates table of contents for markdown files inside local git repository.
 
 ## Hardware Products
 
