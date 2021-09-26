@@ -1,6 +1,6 @@
 ---
-title: "Utility e comandi Software"
-linkTitle: "Utility e comandi Software"
+title: "Software Utilities"
+linkTitle: "Software Utilities"
 weight: 20
 mermaid: false
 ---

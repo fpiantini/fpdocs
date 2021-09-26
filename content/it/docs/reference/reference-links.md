@@ -1,6 +1,6 @@
 ---
-title: "Reference Links"
-linkTitle: "Reference Links"
+title: "Links - Miscellaneous"
+linkTitle: "Links - Miscellaneous"
 weight: 20
 mermaid: false
 ---
@@ -9,10 +9,9 @@ mermaid: false
 
 - [Anatomy of Linux dynamic libraries](https://developer.ibm.com/tutorials/l-dynamic-libraries/)
 
-## Programming languages
+## Hardware
 
-### RUST
+### PC
 
-- [Evan Chan presentation "Allocating Less: Really Thin Rust Cloud Apps" (RustLab 2021)](http://velvia.github.io/presentations/2021-cncf-rustday-alloc-less/#1)
+- [Framework: high-performance, thin and light notebook designed to last](https://frame.work/). Cory Doctorow Article about it: [The Framework is the most exciting laptop I’ve ever used](https://doctorow.medium.com/the-framework-is-the-most-exciting-laptop-ive-ever-used-5415da0a46e5)
 
-- [Evan Chan collection of links about RUST](https://github.com/velvia/links/blob/main/rust.md)
