@@ -21,3 +21,36 @@ mermaid: false
 
 - [Cap'n Proto: fast data interchange format and capability-based RPC system](https://capnproto.org/)
 
+
+## Tools
+
+### VS Code Plugins
+
+Editing:
+
+- [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): Highlight trailing spaces and delete them in a flash!
+- [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save): Auto-Save files by switching between windows.
+
+Git:
+
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): View a Git Graph of your repository, and perform Git actions from the graph.
+
+C/C++:
+
+- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools): C/C++ IntelliSense, debugging, and code browsing.
+- [Cmake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake=): CMake langage support for Visual Studio Code.
+- [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools): Extended CMake support in Visual Studio Code.
+- [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb): A native debugger powered by LLDB. Debug C++, Rust and other compiled languages.
+
+Rust:
+
+- [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb): A native debugger powered by LLDB. Debug C++, Rust and other compiled languages.
+- [Rust-analyzer](https://rust-analyzer.github.io/): rust-analyzer is an implementation of Language Server Protocol for the Rust programming language. It provides features like completion and goto definition for many code editors, including VS Code, Emacs and Vim. N.B. Seems better than the "official" [Rust plugin](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust).
+- [Crates](https://marketplace.visualstudio.com/items?itemName=serayuzgur.crates): Helps Rust developers managing dependencies with Cargo.toml. Only works with dependencies from crates.io.
+
+Other:
+
+- [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml): Rich PlantUML support for Visual Studio Code.
+- [ASN.1](https://marketplace.visualstudio.com/items?itemName=wildboar.asn1): ASN.1 syntax, snippets, formatting, and more.
+- [Better TOML](https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml): Better TOML Language support
+
