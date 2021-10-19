@@ -18,6 +18,7 @@ mermaid: false
 - [Hugo](https://gohugo.io/documentation/): documentation for the Hugo framework.
 - [Hugo Docsy Theme](https://www.docsy.dev/docs/): documentation for the Hugo Docsy theme used as a template for this site.
 - [DocToc](https://github.com/thlorenz/doctoc): generates table of contents for markdown files inside local git repository.
+- [Marp](https://marp.app/): generate presentation from Markdown. With [Visual Studio Code plugin](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) and a [Medium article](https://towardsdatascience.com/bye-bye-powerpoint-hello-marp-3c0e3b3198b1)  with a getting started tutorial.
 
 ## Hardware Products
 
