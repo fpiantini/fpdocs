@@ -14,6 +14,7 @@ mermaid: false
 - [C vs. Rust for hardware abstractions](https://opensource.com/article/20/1/c-vs-rust-abstractions). Interesting examples on how to do bitwise operations in Rust.
 - [Rust cryptography ecosystem overview](https://kerkour.com/blog/rust-cryptography-ecosystem/)
 - [Actix](https://github.com/actix/actix): Actor framework for Rust
+- [Making slow Rust code fast](https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html): Performance tuning using Criterion.rs and flamegraphs
 
 ## OSS Libraries
 
