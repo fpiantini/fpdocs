@@ -9,7 +9,7 @@ Dopo aver installato [JOSM], le operazioni da compiere sono le seguenti:
 - Abilitare l'autenticazione su OSM tramite la pagina preferenze (**Edit -> Preferences** o semplicemente **F12**, voce **"OSM Server"**, utilizzare la modalità OAuth token fully automated)
 - Installare le etichette preimpostate CAI dalla pagina delle preferenze sezione **"Tagging presets"** e cercare "CAI". Selezionare e installare tra i preset "Active.
 
-![Installazione dei preset CAI](/img/josm/josm_installing_CAI_presets.png)
+![Installazione dei preset CAI](/img/josm/josm_installing_cai_presets.png)
 
 A questo punto è possibile effettuare operazioni di modifica del DB OSM.
 
