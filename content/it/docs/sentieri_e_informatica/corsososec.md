@@ -116,6 +116,8 @@ out body;
 out skel qt;
 ```
 
+Per l'elenco delle relazioni sotto la responsabilità della sezione di Sesto Fiorentino, vedere la [pagina dedicata](({{< ref "censimento_sentieri_cai_sf.md" >}} "Censimento Sentieri CAI Sesto Fiorentino"))
+
 Altri codici di sezioni CAI:
 
 - Prato: 9226008
@@ -150,7 +152,7 @@ Per lavorare sul DB OSM bisogna dotarsi per prima cosa di un di un **editor**. N
 
 ![OSM Edit](/img/corsososec/osm_edit_button.png)
 
-- Il software [JOSM]. Trattasi di un software desktop molto più complesso e potente di [iD]. Per approfondimenti vedere la [pagina dedicata]({{< ref "josm.md" >}} "About Us").
+- Il software [JOSM]. Trattasi di un software desktop molto più complesso e potente di [iD]. Per approfondimenti vedere la [pagina dedicata]({{< ref "josm.md" >}} "JOSM").
 
 [OpenStreetMap]: https://www.openstreetmap.org/
 [Infomont]: https://infomont.cai.it/
