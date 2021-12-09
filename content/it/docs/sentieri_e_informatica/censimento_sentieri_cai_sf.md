@@ -25,35 +25,126 @@ out body;
 >;
 out skel qt;
 ```
+
 Nella seguente tabella è riportato il mapping tra il numero del sentiero e il numero della relazione OSM relativa (verifica effettuata il 6/8/2021).
 
-| Numero| Rel. OSM | From                  | To                        | Note         |
-|-------|----------|-----------------------|---------------------------|--------------|
-| 1     | 1999047  | Chiesa di Querceto    | Selletta                  |              |
-| 1B    | 8308393  | n.a.                  | n.a.                      | 'name' da uniformare |
-| 2     | 8308243  | Le Mulina             | Sella degli Scollini      | Manca 'name' |
-| 2B    | 4101290  | Quota 518 sentiero 3  | Fonte dei Seppi           |              |
-| 2C    | 1999046  | Via del Polverificio  | Fonte dei Seppi           |              |
-| 3     | 1999059  | Colonnata             | Piazzale L. da Vinci      |              |
-| 3B    | 1999074  | Colonnata             | Viottolone - Casa Solatio |              |
-| 4     | 1999075  | Castellina            | Quota 380 sentiero 3      |              |
-| 5     |  309966  | Serpiolle             | Quota 328 sentiero 4      |              |
-| 5B    | 2000095  | Via di Malafrasca     | Piazzale L. da Vinci      |              |
-| 6     | 1999086  | S.S. 65 - Paterno     | Ceppeto - Scollini        |              |
-| 6B    | 1999094  | Quota 380 sentiero 6  | Sella degli Scollini      |              |
-| 7     | 1774594  | Cerreto Maggio        | Sella delle Colline       |              |
-| 7B    | 1999095  | Capannaccia           | Sella delle Colline       |              |
-| 8     | 1999619  | Legri - Volmiano      | Poggio all'Aia            |              |
-| 8B    | 2120055  | n.a.                  | n.a.                      |              |
-| 9     | 4101564  | Ponte sul Chiosina    | Quota 570 sentiero 00     |              |
-| 9B    | 4107569  | Leccio                | Quota 590 sentiero 9      |              |
-| 10    | 1999618  | Morello               | Poggio all'Aia            |              |
-| 11    | 1773140  | Fonte del Vecciolino  | Quota 855 sentiero 12     |              |
-| 12    | 1773135  | Fonte del Vecciolino  | n.a.                      |              |
-| 12B   | 2192844  | Fonte del Ciliegio    | Fonte del Mandorlo        |              |
-| 11B   | 4107707  | Quota 785 sentiero 11 | Selletta                  |              |
-| 0     | 2000101  | Piazzale L. da Vinci  | Poggio al Giro            |              |
+| Numero| Rel. OSM  | From                  | To                        | Note         |
+|-------|-----------|-----------------------|---------------------------|--------------|
+| 1     | [1999047] | Chiesa di Querceto    | Selletta                  |              |
+| 1B    | [8308393] | n.a.                  | n.a.                      | 'name' da uniformare |
+| 2     | [8308243] | Le Mulina             | Sella degli Scollini      | Manca 'name' |
+| 2B    | [4101290] | Quota 518 sentiero 3  | Fonte dei Seppi           |              |
+| 2C    | [1999046] | Via del Polverificio  | Fonte dei Seppi           |              |
+| 3     | [1999059] | Colonnata             | Piazzale L. da Vinci      |              |
+| 3B    | [1999074] | Colonnata             | Viottolone - Casa Solatio |              |
+| 4     | [1999075] | Castellina            | Quota 380 sentiero 3      |              |
+| 5     |  [309966] | Serpiolle             | Quota 328 sentiero 4      |              |
+| 5B    | [2000095] | Via di Malafrasca     | Piazzale L. da Vinci      |              |
+| 6     | [1999086] | S.S. 65 - Paterno     | Ceppeto - Scollini        |              |
+| 6B    | [1999094] | Quota 380 sentiero 6  | Sella degli Scollini      |              |
+| 7     | [1774594] | Cerreto Maggio        | Sella delle Colline       |              |
+| 7B    | [1999095] | Capannaccia           | Sella delle Colline       |              |
+| 8     | [1999619] | Legri - Volmiano      | Poggio all'Aia            |              |
+| 8B    | [2120055] | n.a.                  | n.a.                      |              |
+| 9     | [4101564] | Ponte sul Chiosina    | Quota 570 sentiero 00     |              |
+| 9B    | [4107569] | Leccio                | Quota 590 sentiero 9      |              |
+| 10    | [1999618] | Morello               | Poggio all'Aia            |              |
+| 11    | [1773140] | Fonte del Vecciolino  | Quota 855 sentiero 12     |              |
+| 12    | [1773135] | Fonte del Vecciolino  | n.a.                      |              |
+| 12B   | [2192844] | Fonte del Ciliegio    | Fonte del Mandorlo        |              |
+| 11B   | [4107707] | Quota 785 sentiero 11 | Selletta                  |              |
+| 0     | [2000101] | Piazzale L. da Vinci  | Poggio al Giro            |              |
 
+## Sentiero 1: Chiesa di San Jacopo a Querceto - Selletta
+
+La relazione su OSM è la numero [1999047]. Questi sono i tag, verificati e corretti alla data del 8 dicembre 2021:
+
+| tag | valore |
+|-----|--------|
+| ascent | 880 |
+| cai_scale | E |
+| descent | 210 |
+| from | Chiesa di S. Jacopo e S. Maria a Querceto |
+| name | Sentiero CAI 1 - Sez. Sesto F.no |
+| network | lwn |
+| operator | Comune di Sesto Fiorentino |
+| osmc:symbol | red:red:white_stripe:1:black |
+| ref | 1 |
+| ref:REI | LFIC601 |
+| roundtrip | no |
+| route | hiking |
+| source | survey:CAI |
+| source:ref |9226011 |
+| survey:date | 2021-11-28 |
+| symbol | 1 on white red flag |
+| symbol:it | 1 su bandierina bianca e rossa |
+| to | Selletta |
+| type | route |
+
+### Segnavia
+
+- **[Segnavia Chiesa di San Jacopo a Querceto]** - Nodo numero [9321452210]
+- **Segnavia "La Casaccia"** - Nodo numero [9321452209], da sistemare: manca foto su wikimedia e campo `destination`.
+- **Segnavia "Il Masseto"** - Nodo numero [9321452208], da sistemare: manca foto su wikimedia e campo `destination`.
+- **[Segnavia Bivio il Colle]** - Nodo numero [9321452207]
+- **[Segnavia il Colle]** - Nodo numero [9321452206]
+- **[Segnavia Collina]** - Nodo numero [9321452205]
+- **[Segnavia Via di Gualdo]** - Nodo numero [9321452204]
+- **[Segnavia Rifugio Gualdo]** - Nodo numero [9321452203]
+- **[Segnavia Gualdo bivio Strada forestale Ciliegio]** - Nodo numero [9321452202]
+- **[Segnavia Campiglioni]** - Nodo numero [9321456995]
+- **[Segnavia Incrocio sentieri 1, 11, 12 basso]** - Nodo numero [9322404821]
+- **[Segnavia Incrocio sentieri 1, 11, 12 alto]** - Nodo numero [9321456994]
+- **[Segnavia Selletta]** - Nodo numero [9321456993]
 
 [OverPass Turbo]: https://overpass-turbo.eu/
 [OverPass API]: https://dev.overpass-api.de/overpass-doc/en/
+[1999047]:https://www.openstreetmap.org/relation/1999047
+[8308393]:https://www.openstreetmap.org/relation/8308393
+[8308243]:https://www.openstreetmap.org/relation/8308243
+[4101290]:https://www.openstreetmap.org/relation/4101290
+[1999046]:https://www.openstreetmap.org/relation/1999046
+[1999059]:https://www.openstreetmap.org/relation/1999059
+[1999074]:https://www.openstreetmap.org/relation/1999074
+[1999075]:https://www.openstreetmap.org/relation/1999075
+[309966]:https://www.openstreetmap.org/relation/309966
+[2000095]:https://www.openstreetmap.org/relation/2000095
+[1999086]:https://www.openstreetmap.org/relation/1999086
+[1999094]:https://www.openstreetmap.org/relation/1999094
+[1774594]:https://www.openstreetmap.org/relation/1774594
+[1999095]:https://www.openstreetmap.org/relation/1999095
+[1999619]:https://www.openstreetmap.org/relation/1999619
+[2120055]:https://www.openstreetmap.org/relation/2120055
+[4101564]:https://www.openstreetmap.org/relation/4101564
+[4107569]:https://www.openstreetmap.org/relation/4107569
+[1999618]:https://www.openstreetmap.org/relation/1999618
+[1773140]:https://www.openstreetmap.org/relation/1773140
+[1773135]:https://www.openstreetmap.org/relation/1773135
+[2192844]:https://www.openstreetmap.org/relation/2192844
+[4107707]:https://www.openstreetmap.org/relation/4107707
+[2000101]:https://www.openstreetmap.org/relation/2000101
+[9321452210]:https://www.openstreetmap.org/node/9321452210
+[9321452209]:https://www.openstreetmap.org/node/9321452209
+[9321452208]:https://www.openstreetmap.org/node/9321452208
+[9321452207]:https://www.openstreetmap.org/node/9321452207
+[9321452206]:https://www.openstreetmap.org/node/9321452206
+[9321452205]:https://www.openstreetmap.org/node/9321452205
+[9321452204]:https://www.openstreetmap.org/node/9321452204
+[9321452203]:https://www.openstreetmap.org/node/9321452203
+[9321452202]:https://www.openstreetmap.org/node/9321452202
+[9321456995]:https://www.openstreetmap.org/node/9321456995
+[9322404821]:https://www.openstreetmap.org/node/9322404821
+[9321456994]:https://www.openstreetmap.org/node/9321456994
+[9321456993]:https://www.openstreetmap.org/node/9321456993
+
+[Segnavia Chiesa di San Jacopo a Querceto]:https://commons.wikimedia.org/wiki/File:SegnaviaSentiero1_MonteMorello_ChiesaSJacopo_SestoFiorentino.jpg
+[Segnavia Bivio il Colle]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_-_Il_Colle.jpg
+[Segnavia il Colle]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_-_Il_Colle2.jpg
+[Segnavia Collina]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Collina.jpg
+[Segnavia Via di Gualdo]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Via_Di_Gualdo.jpg
+[Segnavia Rifugio Gualdo]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Bivio_Rif_Gualdo.jpg
+[Segnavia Gualdo bivio Strada forestale Ciliegio]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Gualdo_Bivio_Forestale_Ciliegio.jpg
+[Segnavia Campiglioni]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_e_12_-_Monte_Morello_Campiglioni.jpg
+[Segnavia Incrocio sentieri 1, 11, 12 basso]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Incrocio_Sentieri_1_11_12.jpg
+[Segnavia Incrocio sentieri 1, 11, 12 alto]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Incrocio_Sentieri_1_11_12_quota_800.jpg
+[Segnavia Selletta]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_-_Selletta.jpg
