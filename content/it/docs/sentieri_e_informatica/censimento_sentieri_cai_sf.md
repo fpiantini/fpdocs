@@ -95,6 +95,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | 12B   | [2192844] | Fonte del Ciliegio    | Fonte del Mandorlo        |              |
 | 11B   | [4107707] | Quota 785 sentiero 11 | Selletta                  |              |
 | 0     | [2000101] | Piazzale L. da Vinci  | Poggio al Giro            |              |
+| 00    | [359554]  | Ceppeto               | Croci di Calenzano        |              |
 
 ## Esempi di operazioni di Editing
 
@@ -202,3 +203,4 @@ In questa sezione è riportato il risultato delle operazioni svolte sui vari sen
 [2192844]:https://www.openstreetmap.org/relation/2192844
 [4107707]:https://www.openstreetmap.org/relation/4107707
 [2000101]:https://www.openstreetmap.org/relation/2000101
+[359554]:https://www.openstreetmap.org/relation/359554
