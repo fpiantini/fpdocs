@@ -4,6 +4,47 @@ linkTitle: "Censimento Sentieri CAI della Sezione di Sesto Fiorentino"
 weight: 40
 ---
 
+
+## Introduzione: cosa si vuol fare e come
+
+Si vogliono verificare su [Openstreetmap] tutti i sentieri CAI sotto la responsabilità della sezione di Sesto Fiorentino nell'ambito della creazione del Catasto Digitale dei Sentieri come da indicazioni SOSEC (vedere per esempio l'[articolo](https://www.loscarpone.cai.it/cai-lavoro-catasto-nazionale-sentieri/) sul sito [Lo Scarpone](https://www.loscarpone.cai.it/) del CAI). Per informazioni vedere la [pagina dedicata al corso SOSEC]({{< ref "corsososec.md" >}} "Corso Sosec").
+
+Nell'ambito di questo lavoro che prevede una minima attività "sul campo" e una seconda e più corposa attività al PC. In questa fase di lavoro al PC si vogliono anche inserire in OSM i segnavia CAI presenti sul territorio (attualmente non mappati in OSM). Per ogni segnavia, viene anche inserita una foto in [WikiMedia Commons].
+
+Per ogni sentiero sono svolte le seguenti attività:
+
+- Verifica delle informazioni già presenti su OSM
+- Escursione sul campo per la raccolta del tracciato e delle informazioni sulle way e sui segnavia
+- Inserimento delle informazioni e degli elementi mancanti (per esempio i segnavia)
+
+### Fase 1: raccolta e prima verifica delle informazioni già presenti su OSM
+
+Come si può verificare facilmente (vedere per esempio sotto nel capitolo "Elenco delle relazioni disponibili", i sentieri CAI della sezione di Sesto Fiorentino sono già presenti su OSM sotto forma di relazioni. Vedere la tabella sotto per individuare i link diretti alle relazioni (per esempio per il sentiero CAI 1 la relazione è la numero [1999047]).
+
+Quando si comincia ad analizzare una relazione, si raccolgono i tag esistenti per la relazione stessa. Bisognerebbe valutare la correttezza delle etichette e controllare che siano presenti tutte quelle essenziali secondo la classificazione CAI (vedere la pagina dedicata [IT:CAI] sul Wiki OSM). Particolarmente importante è l'etichetta con chiave [ref:REI] con il codice univoco [REI] nazionale assegnato al sentiero.
+
+A un livello successivo, andranno verificate le [way](https://wiki.openstreetmap.org/wiki/Way) OSM che compongono la relazione. In questa prima fase ci limitiamo a raccogliere i link alle varie way. Per raccogliere questi link e metterli in forma di tabella all'interno di una sottosezione specifica in questa pagina (vedi sotto per esempi), conviene aprire la pagina della relazione su OSM e fare Copy and Paste della sezione "Members" in basso a sinistra. Aggiustare la tabella come riportato negli esempi sotto.
+
+### Fase 2: escursione sul campo
+
+- Escursione a piedi sul campo, seguendo in modo preciso il percorso dall'inizio alla fine
+- Raccolta durante l'escursione del tracciato GPS utilizzando l'app [GeoResQ].
+- Durante la registrazione del tracciato si seguono le indicazioni contenute nella guida "[Il rilievo dei sentieri]" sviluppata nell'ambito del progetto Interreg Italia-Svizzera. Sull'app [GeoResq] per esempio si salva un waypoint in ogni punto in cui c'è un cambio di fondo.
+- In aggiunta a quanto riportato nella guida, per mappare i segnavia, per ogni segnavia incontrato si registra un waypoint fotografico
+
+In aggiunta all'app GeoResq si possono contestualmente registrare i tracciati GPS anche con altri apparati che in alcuni casi possono dare un risultato migliore della registrazione con smartphone. Personalmente registro i percorsi anche con un ricevitore GPS Garmin Etrex e un orologio Suunto Ambit 3 (quest'ultimo fornisce la registrazione più accurata).
+
+### Fase 3: elaborazione al PC delle nuove informazioni raccolte
+
+Per elaborare le informazioni si utilizza il software [JOSM] con il setup "CAI" (vedere la [pagina dedicata]({{< ref "josm.md" >}} "JOSM")).
+
+- Lanciare JOSM
+- Caricare la traccia GPX registrata con GeoResq (più eventualmente le altre tracce GPX disponibili) utilizzando la voce File -> Open (o Ctrl-O). Sulla traccia GeoResq, oltre alla traccia stessa, dovrebbero essere visibili i waypoint registrati durante l'escursione.
+- Scaricare i dati OSM relativi all'area del percorso con la funzione File -> "Download data" (Ctrl-Shift-Down) o File -> "Download in current view". Attenzione che in base alla dimensione dell'area OSM potrebbe essere necessario spezzare il download in più parti
+- Verificare il tracciato: in questa fase si possono eseguire diverse operazioni che verranno descritte in dettaglio nel seguito (vedi sotto)
+
+## ELENCO DELLE RELAZIONI DISPONIBILI AL DICEMBRE 2021
+
 I dati sottostanti sono stati ottenuti dalla query `source:ref=9226011` su [OverPass Turbo]. Il codice [OverPass API] è il seguente:
 
 ```json
@@ -31,8 +72,8 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | Numero| Rel. OSM  | From                  | To                        | Note         |
 |-------|-----------|-----------------------|---------------------------|--------------|
 | 1     | [1999047] | Chiesa di Querceto    | Selletta                  |              |
-| 1B    | [8308393] | n.a.                  | n.a.                      | 'name' da uniformare |
-| 2     | [8308243] | Le Mulina             | Sella degli Scollini      | Manca 'name' |
+| 1B    | [8308393] | Via di Isola          | Collina                   |              |
+| 2     | [8308243] | Le Mulina             | Sella degli Scollini      |              |
 | 2B    | [4101290] | Quota 518 sentiero 3  | Fonte dei Seppi           |              |
 | 2C    | [1999046] | Via del Polverificio  | Fonte dei Seppi           |              |
 | 3     | [1999059] | Colonnata             | Piazzale L. da Vinci      |              |
@@ -55,50 +96,87 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | 11B   | [4107707] | Quota 785 sentiero 11 | Selletta                  |              |
 | 0     | [2000101] | Piazzale L. da Vinci  | Poggio al Giro            |              |
 
-## Sentiero 1: Chiesa di San Jacopo a Querceto - Selletta
+## Esempi di operazioni di Editing
 
-La relazione su OSM è la numero [1999047]. Questi sono i tag, verificati e corretti alla data del 8 dicembre 2021:
+### Fixing dei campi di una relazione (sentiero)
 
-| tag | valore |
-|-----|--------|
-| ascent | 880 |
-| cai_scale | E |
-| descent | 210 |
-| from | Chiesa di S. Jacopo e S. Maria a Querceto |
-| name | Sentiero CAI 1 - Sez. Sesto F.no |
-| network | lwn |
-| operator | Comune di Sesto Fiorentino |
-| osmc:symbol | red:red:white_stripe:1:black |
-| ref | 1 |
-| ref:REI | LFIC601 |
-| roundtrip | no |
-| route | hiking |
-| source | survey:CAI |
-| source:ref |9226011 |
-| survey:date | 2021-11-28 |
-| symbol | 1 on white red flag |
-| symbol:it | 1 su bandierina bianca e rossa |
-| to | Selletta |
-| type | route |
+Qui la cosa più semplice è operare direttamente su OSM nella pagina della relazione, cliccando su "Edit". Vanno inseriti almeno i seguenti tag:
 
-### Segnavia
+- `ascent`
+- `cai_scale`
+- `descent`
+- `from`
+- `name`
+- `network`
+- `operator`
+- `osmc:symbol`
+- `ref`
+- `ref:REI`
+- `roundtrip`
+- `route`
+- `source`
+- `source:ref`
+- `survey:date`
+- `symbol`
+- `symbol:it`
+- `to`
+- `type`
 
-- **[Segnavia Chiesa di San Jacopo a Querceto]** - Nodo numero [9321452210]
-- **Segnavia "La Casaccia"** - Nodo numero [9321452209], da sistemare: manca foto su wikimedia e campo `destination`.
-- **Segnavia "Il Masseto"** - Nodo numero [9321452208], da sistemare: manca foto su wikimedia e campo `destination`.
-- **[Segnavia Bivio il Colle]** - Nodo numero [9321452207]
-- **[Segnavia il Colle]** - Nodo numero [9321452206]
-- **[Segnavia Collina]** - Nodo numero [9321452205]
-- **[Segnavia Via di Gualdo]** - Nodo numero [9321452204]
-- **[Segnavia Rifugio Gualdo]** - Nodo numero [9321452203]
-- **[Segnavia Gualdo bivio Strada forestale Ciliegio]** - Nodo numero [9321452202]
-- **[Segnavia Campiglioni]** - Nodo numero [9321456995]
-- **[Segnavia Incrocio sentieri 1, 11, 12 basso]** - Nodo numero [9322404821]
-- **[Segnavia Incrocio sentieri 1, 11, 12 alto]** - Nodo numero [9321456994]
-- **[Segnavia Selletta]** - Nodo numero [9321456993]
+### Inserimento di un segnavia
 
+Supponendo che si sia registrata la traccia con GeoResq, fare login sul sito [GeoResq] e aprire la pagina della traccia che contiene le fotografie che si vogliono caricare. Questa pagina sarà utile per esempio per ottenere la posizione del segnavia.
+
+Passo 1: caricare la foto del segnavia su [Wikimedia Commons]:
+
+- Aprire la pagina dell'[Upload Wizard](https://commons.wikimedia.org/wiki/Special:UploadWizard)
+- Selezionare il file da caricare e cliccare su "Continue"
+- Selezionare "This file is my own work", selezionare la licenza desiderata (in ogni caso quella proposta "Creative Commons Attribution ShareAlike 4.0" è OK) e cliccare su "Next"
+- Inserire un titolo che descriva il sentiero, per esempio: _Segnavia Sentiero 1 - Monte Morello - Zona la Casaccia_
+- Inserire una caption (in Italiano), che può essere nel caso più semplice uguale al titolo o qualcosa di più descrittivo, per esempio: _Segnavia CAI Sentiero 1 - Sesto Fiorentino - Monte Morello - Zona la Casaccia_
+- Inserire una "Description" (in Italiano), per esempio: _Segnavia CAI Sentiero 1, CAI sezione di Sesto Fiorentino posto in Monte Morello zona "la Casaccia"_
+- Selezionare la data di creazione / prima pubblicazione
+- Come categoria selezionare [Signposts (Directional)](https://commons.wikimedia.org/wiki/Category:Directional_signposts)
+- Cliccare su "Add Location and more Information" e inserire la posizione (lat/long). La posizione del segnavia può essere presa dai dati sul portale [GeoResq] nella pagina della traccia contenente i waypoint fotografici
+- Cliccare su "Publish Files"
+- Nella pagina "Add Metadata" inserire "[Signpost](https://www.wikidata.org/wiki/Q22812402)" e marcarlo come "Prominent"
+- Cliccare su "Publish data for all files"
+
+Passo 2: Inserimento del Segnavia su OSM. Per fare questo utilizzeremo [JOSM].
+
+- Dopo aver lanciato JOSM ed essersi assicurati di averlo impostato correttamente (vedere sopra), caricare la traccia GPX raccolta con GeoResq contenente i waypoint dei segnavia (vedere sempre sopra).
+- Scaricare i dati da OSM dell'area di interesse (vedere sopra). Attivare il layer dei dati OSM se necessario
+- Inserire un nuovo nodo nella posizione desiderata selezionando il pulsante "Draw Nodes" nella barra a sinistra. Fare doppio click per inserire il nodo nella posizione desiderata
+- Assicurandosi di avere il nuovo nodo selezionato, aprire la vode di menù **Presets** -> **Club Alpino Italiano (CAI)**-> **Club Alpino Italiano Guidepost** per applicare i preset suggeriti dal CAI per i segnavia
+- Nella finestra dei preset CAI Guidepost, inserire i seguenti tag:
+  - `name`: nome del segnavia (più semplice possibile visto che apparirà sulle mappe OSM)
+  - `elevation`: l'elevazione sul livello del mare; in mancanza di meglio utilizzare il dato fornito da GeoResq.
+  - `destination` utilizzando il formato standard: ci deve essere una sezione per ogni pannello, i pannelli devono essere separati da "|" (simbolo "pipe"), e per ogni pannello riportare le destinazioni con i tempi separati da ";". Per esempio per il [pannello in zona la Casaccia](https://upload.wikimedia.org/wikipedia/commons/6/60/Segnavia_Sentiero_1_-_Monte_Morello_-_Zona_la_Casaccia.jpg), scrivere: `Collina 00:40;Gualdo 01:00;Selletta 02:10|Chiesa di Querceto 00:15`
+  - `wikimedia_commons` con il valore preso dalla pagina su wikimedia, per esempio: `File:Segnavia Sentiero 1 - Monte Morello - Zona la Casaccia.jpg`
+  - `Operator`: il valore proposto di default (Club Alpino Italiano) non è corretto, meglio sarebbe mettere il Comune, ma nell'incertezza lasciare vuoto
+  - Per tutti gli altri campi, in mancanza di altri dati, lasciare vuoto
+
+ALtri campi saranno aggiunti automaticamente dai preset CAI guidepost.
+
+Al termine dell'inserimento dei dati cliccare su File -> Upload Data (Ctrl-Shift-Up), inserire un commento sull'intervento fatto (p.e. "Aggiunto segnavia CAI") ed inserire come data source for the changes "Survey:CAI"
+
+## Censimento Sentieri
+
+In questa sezione è riportato il risultato delle operazioni svolte sui vari sentieri. Le relazioni sono per il momento riportate in modo non ordinato, semplicemente seguendo una sequenza cronologica di analisi.
+
+- [Sentiero 1: Chiesa di San Jacopo a Querceto - Selletta]({{< ref "1999047.md" >}} "Sentiero 1")
+- [Sentiero 2: Le Mulina - Sella degli Scollini]({{< ref "8308243.md" >}} "Sentiero 2")
+
+[Openstreetmap]:https://www.openstreetmap.org/
+[Wikimedia Commons]:https://commons.wikimedia.org/wiki/Main_Page
+[GeoResq]:https://wp.georesq.it/
 [OverPass Turbo]: https://overpass-turbo.eu/
 [OverPass API]: https://dev.overpass-api.de/overpass-doc/en/
+[Il rilievo dei sentieri]:http://www.upkeepthealps.eu/wp-content/uploads/2020/04/rilievo.pdf
+[JOSM]:https://josm.openstreetmap.de/
+[IT:CAI]:https://wiki.openstreetmap.org/wiki/IT:CAI
+[ref:REI]:https://wiki.openstreetmap.org/wiki/IT%3AKey%3Aref%3AREI
+[REI]:https://wiki.openstreetmap.org/wiki/REI
+
 [1999047]:https://www.openstreetmap.org/relation/1999047
 [8308393]:https://www.openstreetmap.org/relation/8308393
 [8308243]:https://www.openstreetmap.org/relation/8308243
@@ -123,28 +201,3 @@ La relazione su OSM è la numero [1999047]. Questi sono i tag, verificati e corr
 [2192844]:https://www.openstreetmap.org/relation/2192844
 [4107707]:https://www.openstreetmap.org/relation/4107707
 [2000101]:https://www.openstreetmap.org/relation/2000101
-[9321452210]:https://www.openstreetmap.org/node/9321452210
-[9321452209]:https://www.openstreetmap.org/node/9321452209
-[9321452208]:https://www.openstreetmap.org/node/9321452208
-[9321452207]:https://www.openstreetmap.org/node/9321452207
-[9321452206]:https://www.openstreetmap.org/node/9321452206
-[9321452205]:https://www.openstreetmap.org/node/9321452205
-[9321452204]:https://www.openstreetmap.org/node/9321452204
-[9321452203]:https://www.openstreetmap.org/node/9321452203
-[9321452202]:https://www.openstreetmap.org/node/9321452202
-[9321456995]:https://www.openstreetmap.org/node/9321456995
-[9322404821]:https://www.openstreetmap.org/node/9322404821
-[9321456994]:https://www.openstreetmap.org/node/9321456994
-[9321456993]:https://www.openstreetmap.org/node/9321456993
-
-[Segnavia Chiesa di San Jacopo a Querceto]:https://commons.wikimedia.org/wiki/File:SegnaviaSentiero1_MonteMorello_ChiesaSJacopo_SestoFiorentino.jpg
-[Segnavia Bivio il Colle]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_-_Il_Colle.jpg
-[Segnavia il Colle]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_-_Il_Colle2.jpg
-[Segnavia Collina]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Collina.jpg
-[Segnavia Via di Gualdo]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Via_Di_Gualdo.jpg
-[Segnavia Rifugio Gualdo]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Bivio_Rif_Gualdo.jpg
-[Segnavia Gualdo bivio Strada forestale Ciliegio]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Gualdo_Bivio_Forestale_Ciliegio.jpg
-[Segnavia Campiglioni]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_e_12_-_Monte_Morello_Campiglioni.jpg
-[Segnavia Incrocio sentieri 1, 11, 12 basso]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Incrocio_Sentieri_1_11_12.jpg
-[Segnavia Incrocio sentieri 1, 11, 12 alto]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_Incrocio_Sentieri_1_11_12_quota_800.jpg
-[Segnavia Selletta]:https://commons.wikimedia.org/wiki/File:Segnavia_Sentiero_1_-_Monte_Morello_-_Selletta.jpg
