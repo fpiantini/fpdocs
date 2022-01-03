@@ -89,7 +89,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | 8B    | [2120055] | n.a.                  | n.a.                      |              |
 | 9     | [4101564] | Ponte sul Chiosina    | Quota 570 sentiero 00     |              |
 | 9B    | [4107569] | Leccio                | Quota 590 sentiero 9      |              |
-| 10    | [1999618] | Morello               | Poggio all'Aia            |              |
+| 10    | [1999618] | Morello               | Poggio all'Aia            | Rompistinchi |
 | 11    | [1773140] | Fonte del Vecciolino  | Quota 855 sentiero 12     |              |
 | 12    | [1773135] | Fonte del Vecciolino  | n.a.                      |              |
 | 12B   | [2192844] | Fonte del Ciliegio    | Fonte del Mandorlo        |              |
@@ -165,6 +165,7 @@ In questa sezione è riportato il risultato delle operazioni svolte sui vari sen
 
 - [Sentiero 1: Chiesa di San Jacopo a Querceto - Selletta]({{< ref "1999047.md" >}} "Sentiero 1")
 - [Sentiero 2: Le Mulina - Sella degli Scollini]({{< ref "8308243.md" >}} "Sentiero 2")
+- [Sentiero 10 (Rompistinchi): Morello - Poggio all'Aia]({{< ref "1999618.md" >}} "Sentiero 2")
 
 [Openstreetmap]:https://www.openstreetmap.org/
 [Wikimedia Commons]:https://commons.wikimedia.org/wiki/Main_Page
