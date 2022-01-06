@@ -69,15 +69,15 @@ out skel qt;
 
 Nella seguente tabella è riportato il mapping tra il numero del sentiero e il numero della relazione OSM relativa (verifica effettuata il 6/8/2021).
 
-| Numero| Rel. OSM  | From                  | To                        | Note         |
+| Numero| Rel. OSM  | From                  | To                        | Analizzato   |
 |-------|-----------|-----------------------|---------------------------|--------------|
-| 1     | [1999047] | Chiesa di Querceto    | Selletta                  |              |
+| 1     | [1999047] | Chiesa di Querceto    | Selletta                  | Sì           |
 | 1B    | [8308393] | Via di Isola          | Collina                   |              |
-| 2     | [8308243] | Le Mulina             | Sella degli Scollini      |              |
+| 2     | [8308243] | Le Mulina             | Sella degli Scollini      | Sì           |
 | 2B    | [4101290] | Quota 518 sentiero 3  | Fonte dei Seppi           |              |
 | 2C    | [1999046] | Via del Polverificio  | Fonte dei Seppi           |              |
-| 3     | [1999059] | Colonnata             | Piazzale L. da Vinci      |              |
-| 3B    | [1999074] | Colonnata             | Viottolone - Casa Solatio |              |
+| 3     | [1999059] | Colonnata             | Piazzale L. da Vinci      | Sì           |
+| 3B    | [1999074] | Colonnata             | Viottolone - Casa Solatio | Sì           |
 | 4     | [1999075] | Castellina            | Quota 380 sentiero 3      |              |
 | 5     |  [309966] | Serpiolle             | Quota 328 sentiero 4      |              |
 | 5B    | [2000095] | Via di Malafrasca     | Piazzale L. da Vinci      |              |
@@ -89,13 +89,13 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | 8B    | [2120055] | n.a.                  | n.a.                      |              |
 | 9     | [4101564] | Ponte sul Chiosina    | Quota 570 sentiero 00     |              |
 | 9B    | [4107569] | Leccio                | Quota 590 sentiero 9      |              |
-| 10    | [1999618] | Morello               | Poggio all'Aia            | Rompistinchi |
+| 10    | [1999618] | Morello               | Poggio all'Aia            | Sì           |
 | 11    | [1773140] | Fonte del Vecciolino  | Quota 855 sentiero 12     |              |
 | 12    | [1773135] | Fonte del Vecciolino  | n.a.                      |              |
 | 12B   | [2192844] | Fonte del Ciliegio    | Fonte del Mandorlo        |              |
 | 11B   | [4107707] | Quota 785 sentiero 11 | Selletta                  |              |
 | 0     | [2000101] | Piazzale L. da Vinci  | Poggio al Giro            |              |
-| 00    | [359554]  | Ceppeto               | Croci di Calenzano        |              |
+| 00    | [359554]  | Ceppeto               | Croci di Calenzano        | Parzialmente |
 
 ## Esempi di operazioni di Editing
 
@@ -164,9 +164,11 @@ Al termine dell'inserimento dei dati cliccare su File -> Upload Data (Ctrl-Shift
 
 In questa sezione è riportato il risultato delle operazioni svolte sui vari sentieri. Le relazioni sono per il momento riportate in modo non ordinato, semplicemente seguendo una sequenza cronologica di analisi.
 
-- [Sentiero 1: Chiesa di San Jacopo a Querceto - Selletta]({{< ref "1999047.md" >}} "Sentiero 1")
-- [Sentiero 2: Le Mulina - Sella degli Scollini]({{< ref "8308243.md" >}} "Sentiero 2")
-- [Sentiero 10 (Rompistinchi): Morello - Poggio all'Aia]({{< ref "1999618.md" >}} "Sentiero 2")
+- [Sentiero 1: Chiesa di San Jacopo a Querceto - Selletta]({{< ref "01_1999047.md" >}} "Sentiero 1")
+- [Sentiero 2: Le Mulina - Sella degli Scollini]({{< ref "02_8308243.md" >}} "Sentiero 2")
+- [Sentiero 10 (Rompistinchi): Morello - Poggio all'Aia]({{< ref "10_1999618.md" >}} "Sentiero 2")
+- [Sentiero 00: Ceppeto - Croci di Calenzano]({{< ref "00_359554.md" >}} "Sentiero 2")
+
 
 [Openstreetmap]:https://www.openstreetmap.org/
 [Wikimedia Commons]:https://commons.wikimedia.org/wiki/Main_Page
