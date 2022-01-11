@@ -9,7 +9,7 @@ weight: 40
 
 Si vogliono verificare su [Openstreetmap] tutti i sentieri CAI sotto la responsabilità della sezione di Sesto Fiorentino nell'ambito della creazione del Catasto Digitale dei Sentieri come da indicazioni SOSEC (vedere per esempio l'[articolo](https://www.loscarpone.cai.it/cai-lavoro-catasto-nazionale-sentieri/) sul sito [Lo Scarpone](https://www.loscarpone.cai.it/) del CAI). Per informazioni vedere la [pagina dedicata al corso SOSEC]({{< ref "corsososec.md" >}} "Corso Sosec").
 
-Nell'ambito di questo lavoro che prevede una minima attività "sul campo" e una seconda e più corposa attività al PC. In questa fase di lavoro al PC si vogliono anche inserire in OSM i segnavia CAI presenti sul territorio (attualmente non mappati in OSM). Per ogni segnavia, viene anche inserita una foto in [WikiMedia Commons].
+Questo lavoro prevede una minima attività "sul campo" (i sentieri sono già praticamente tutti presenti su OSM) e una seconda e più corposa attività al PC. In questa fase di lavoro al PC si vogliono anche inserire in OSM i segnavia CAI presenti sul territorio (attualmente non mappati in OSM). Per ogni segnavia, viene anche inserita una foto in [WikiMedia Commons].
 
 Per ogni sentiero sono svolte le seguenti attività:
 
@@ -206,3 +206,4 @@ In questa sezione è riportato il risultato delle operazioni svolte sui vari sen
 [4107707]:https://www.openstreetmap.org/relation/4107707
 [2000101]:https://www.openstreetmap.org/relation/2000101
 [359554]:https://www.openstreetmap.org/relation/359554
+
