@@ -74,8 +74,8 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | 1     | [1999047] | Chiesa di Querceto    | Selletta                  | Sì           |
 | 1B    | [8308393] | Via di Isola          | Collina                   |              |
 | 2     | [8308243] | Le Mulina             | Sella degli Scollini      | Sì           |
-| 2B    | [4101290] | Quota 518 sentiero 3  | Fonte dei Seppi           |              |
-| 2C    | [1999046] | Via del Polverificio  | Fonte dei Seppi           |              |
+| 2B    | [4101290] | Incrocio sentiero 3   | Incrocio sentiero 2       |              |
+| 2C    | [1999046] | Via del Polverificio  | Fonte dei Seppi           | Sì           |
 | 3     | [1999059] | Colonnata             | Piazzale L. da Vinci      | Sì           |
 | 3B    | [1999074] | Colonnata             | Viottolone - Casa Solatio | Sì           |
 | 4     | [1999075] | Castellina            | Quota 380 sentiero 3      |              |
