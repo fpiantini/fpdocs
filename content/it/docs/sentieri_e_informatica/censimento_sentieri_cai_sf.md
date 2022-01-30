@@ -69,33 +69,38 @@ out skel qt;
 
 Nella seguente tabella è riportato il mapping tra il numero del sentiero e il numero della relazione OSM relativa (verifica effettuata il 6/8/2021).
 
-| Numero| Rel. OSM  | From                  | To                        | Analizzato   |
-|-------|-----------|-----------------------|---------------------------|--------------|
-| 1     | [1999047] | Chiesa di Querceto    | Selletta                  | Sì           |
-| 1B    | [8308393] | Via di Isola          | Collina                   |              |
-| 2     | [8308243] | Le Mulina             | Sella degli Scollini      | Sì           |
-| 2B    | [4101290] | Incrocio sentiero 3   | Incrocio sentiero 2       |              |
-| 2C    | [1999046] | Via del Polverificio  | Fonte dei Seppi           | Sì           |
-| 3     | [1999059] | Colonnata             | Piazzale L. da Vinci      | Sì           |
-| 3B    | [1999074] | Colonnata             | Viottolone - Casa Solatio | Sì           |
-| 4     | [1999075] | Castellina            | Quota 380 sentiero 3      |              |
-| 5     |  [309966] | Serpiolle             | Quota 328 sentiero 4      |              |
-| 5B    | [2000095] | Via di Malafrasca     | Piazzale L. da Vinci      |              |
-| 6     | [1999086] | S.S. 65 - Paterno     | Ceppeto - Scollini        |              |
-| 6B    | [1999094] | Quota 380 sentiero 6  | Sella degli Scollini      |              |
-| 7     | [1774594] | Cerreto Maggio        | Sella delle Colline       |              |
-| 7B    | [1999095] | Capannaccia           | Sella delle Colline       |              |
-| 8     | [1999619] | Legri - Volmiano      | Poggio all'Aia            |              |
-| 8B    | [2120055] | n.a.                  | n.a.                      |              |
-| 9     | [4101564] | Ponte sul Chiosina    | Quota 570 sentiero 00     |              |
-| 9B    | [4107569] | Leccio                | Quota 590 sentiero 9      |              |
-| 10    | [1999618] | Morello               | Poggio all'Aia            | Sì           |
-| 11    | [1773140] | Fonte del Vecciolino  | Quota 855 sentiero 12     |              |
-| 12    | [1773135] | Fonte del Vecciolino  | n.a.                      |              |
-| 12B   | [2192844] | Fonte del Ciliegio    | Fonte del Mandorlo        |              |
-| 11B   | [4107707] | Quota 785 sentiero 11 | Selletta                  |              |
-| 0     | [2000101] | Piazzale L. da Vinci  | Poggio al Giro            |              |
-| 00    | [359554]  | Ceppeto               | Croci di Calenzano        | Parzialmente |
+| Numero| Rel. OSM   | From                  | To                        | Analizzato   |
+|-------|------------|-----------------------|---------------------------|--------------|
+| 1     | [1999047]  | Chiesa di Querceto    | Selletta                  | Sì           |
+| 1B    | [8308393]  | Via di Isola          | Collina                   |              |
+| 2     | [8308243]  | Le Mulina             | Sella degli Scollini      | Sì           |
+| 2B    | [4101290]  | Incrocio sentiero 3   | Incrocio sentiero 2       |              |
+| 2C    | [1999046]  | Via del Polverificio  | Fonte dei Seppi           | Sì           |
+| 3     | [1999059]  | Colonnata             | Piazzale L. da Vinci      | Sì           |
+| 3A    | [13733605] | Colonnata             | Carmignanello             |              |
+| 3B    | [1999074]  | Colonnata             | Viottolone - Casa Solatio | Sì           |
+| 4     | [1999075]  | Castellina            | Quota 380 sentiero 3      |              |
+| 5     |  [309966]  | Serpiolle             | Quota 328 sentiero 4      |              |
+| 5B    | [2000095]  | Via di Malafrasca     | Piazzale L. da Vinci      |              |
+| 6     | [1999086]  | S.S. 65 - Paterno     | Ceppeto - Scollini        |              |
+| 6B    | [1999094]  | Quota 380 sentiero 6  | Sella degli Scollini      |              |
+| 7     | [1774594]  | Cerreto Maggio        | Sella delle Colline       |              |
+| 7B    | [1999095]  | Capannaccia           | Sella delle Colline       |              |
+| 8     | [1999619]  | Legri - Volmiano      | Poggio all'Aia            |              |
+| 8B    | [2120055]  | n.a.                  | n.a.                      |              |
+| 9     | [4101564]  | Ponte sul Chiosina    | Quota 570 sentiero 00     |              |
+| 9B    | [4107569]  | Leccio                | Quota 590 sentiero 9      |              |
+| 10    | [1999618]  | Morello               | Poggio all'Aia            | Sì           |
+| 11    | [1773140]  | Fonte del Vecciolino  | Quota 855 sentiero 12     |              |
+| 11B   | [4107707]  | Quota 785 sentiero 11 | Selletta                  |              |
+| 12    | [1773135]  | Fonte del Vecciolino  | n.a.                      |              |
+| 12B   | [2192844]  | Fonte del Ciliegio    | Fonte del Mandorlo        |              |
+| 15    |  MANCA     | Chiesa di Cercina     | Chiesa di Cercina         |              |
+| 15A   |  MANCA     | Via Docciola          | Incrocio sentiero 15      |              |
+| 16    | [2655109]  | Quota 350 sentiero 5  | Caselline                 |              |
+| 16A   | [11491686] | Piazzale L. da Vinci  | Podere Casaccia           |              |
+| 0     | [2000101]  | Piazzale L. da Vinci  | Poggio al Giro            |              |
+| 00    | [359554]   | Ceppeto               | Croci di Calenzano        | Parzialmente |
 
 ## Esempi di operazioni di Editing
 
@@ -187,6 +192,7 @@ In questa sezione è riportato il risultato delle operazioni svolte sui vari sen
 [4101290]:https://www.openstreetmap.org/relation/4101290
 [1999046]:https://www.openstreetmap.org/relation/1999046
 [1999059]:https://www.openstreetmap.org/relation/1999059
+[13733605]:https://www.openstreetmap.org/relation/13733605
 [1999074]:https://www.openstreetmap.org/relation/1999074
 [1999075]:https://www.openstreetmap.org/relation/1999075
 [309966]:https://www.openstreetmap.org/relation/309966
@@ -204,6 +210,8 @@ In questa sezione è riportato il risultato delle operazioni svolte sui vari sen
 [1773135]:https://www.openstreetmap.org/relation/1773135
 [2192844]:https://www.openstreetmap.org/relation/2192844
 [4107707]:https://www.openstreetmap.org/relation/4107707
+[2655109]:https://www.openstreetmap.org/relation/2655109
+[11491686]:https://www.openstreetmap.org/relation/11491686
 [2000101]:https://www.openstreetmap.org/relation/2000101
 [359554]:https://www.openstreetmap.org/relation/359554
 
