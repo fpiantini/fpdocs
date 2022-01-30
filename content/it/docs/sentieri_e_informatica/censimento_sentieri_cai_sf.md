@@ -80,7 +80,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | 3A    | [13733605] | Colonnata             | Carmignanello             |              |
 | 3B    | [1999074]  | Colonnata             | Viottolone - Casa Solatio | Sì           |
 | 4     | [1999075]  | Castellina            | Quota 380 sentiero 3      |              |
-| 5     |  [309966]  | Serpiolle             | Quota 328 sentiero 4      |              |
+| 5     |  [309966]  | Serpiolle             | Quota 328 sentiero 4      | Inseriti alcuni segnavia             |
 | 5B    | [2000095]  | Via di Malafrasca     | Piazzale L. da Vinci      |              |
 | 6     | [1999086]  | S.S. 65 - Paterno     | Ceppeto - Scollini        |              |
 | 6B    | [1999094]  | Quota 380 sentiero 6  | Sella degli Scollini      |              |
@@ -97,8 +97,8 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | 12B   | [2192844]  | Fonte del Ciliegio    | Fonte del Mandorlo        |              |
 | 15    |  MANCA     | Chiesa di Cercina     | Chiesa di Cercina         |              |
 | 15A   |  MANCA     | Via Docciola          | Incrocio sentiero 15      |              |
-| 16    | [2655109]  | Quota 350 sentiero 5  | Caselline                 |              |
-| 16A   | [11491686] | Piazzale L. da Vinci  | Podere Casaccia           |              |
+| 16    | [2655109]  | Quota 350 sentiero 5  | Caselline                 | Inseriti alcuni segnavia             |
+| 16A   | [11491686] | Piazzale L. da Vinci  | Podere Casaccia           | Sì           |
 | 0     | [2000101]  | Piazzale L. da Vinci  | Poggio al Giro            |              |
 | 00    | [359554]   | Ceppeto               | Croci di Calenzano        | Parzialmente |
 
