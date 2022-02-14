@@ -43,6 +43,14 @@ Tramite questi siti è possibile costruire itinerari escursionistici e salvare l
 - [Komoot]
 - [Outdoor Active]
 
+### Visualizzazione ed editing GPX
+
+Siti che permettono la visualizzazione di file GPX su cartografia. In alcuni casi permettono l'editing.
+
+- [GPX Studio]: visualizza i GPX su basemaps di cartografia e layer overlay addizionali. Molto interessante per esempio la possibilità di visualizzare come overlay [WayMarked Trails].
+- [UMAP]: Permette di creare mappe personalizzate, anche caricando GPX
+- [GPS Visualizer]: _"GPS Visualizer is an online utility that creates maps and profiles from geographic data"_
+
 ### OSM & CAI - Catasto digitale dei sentieri
 
 Si rimanda anche alla pagina dedicata al [Corso SOSEC]({{< ref "corsososec.md" >}} "JOSM").
@@ -85,9 +93,14 @@ Si rimanda anche alla pagina dedicata al [Corso SOSEC]({{< ref "corsososec.md" >
 [Komoot]:https://www.komoot.com/
 [Outdoor Active]:https://www.outdooractive.com/it/mypage/
 
+[GPX Studio]:https://gpx.studio/
+[UMAP]:https://umap.openstreetmap.fr/it/
+[GPS Visualizer]:https://www.gpsvisualizer.com/
+
 [GeoResQ]: https://www.georesq.it/
 [Pagina CAI]:https://wiki.openstreetmap.org/wiki/IT:CAI
 [Pagina REI]:https://wiki.openstreetmap.org/wiki/REI
 
 [Geoscopio Regione Toscana]:https://www.regione.toscana.it/-/geoscopio
 [Geoscopio Toscana - Sentieristica]:http://www502.regione.toscana.it/geoscopio/sentieristica.html
+
