@@ -74,6 +74,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | 1     | [1999047]  | Chiesa di Querceto    | Selletta                  | Sì           |
 | 1B    | [8308393]  | Via di Isola          | Collina                   |              |
 | 2     | [8308243]  | Le Mulina             | Sella degli Scollini      | Sì           |
+| 2A    |  MANCA     | Fonte di Lonciano     | Incrocio sentiero 2B      |              |
 | 2B    | [4101290]  | Incrocio sentiero 3   | Incrocio sentiero 2       |              |
 | 2C    | [1999046]  | Via del Polverificio  | Fonte dei Seppi           | Sì           |
 | 3     | [1999059]  | Colonnata             | Piazzale L. da Vinci      | Sì           |
@@ -95,7 +96,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | 11B   | [4107707]  | Quota 785 sentiero 11 | Selletta                  |              |
 | 12    | [1773135]  | Fonte del Vecciolino  | n.a.                      |              |
 | 12B   | [2192844]  | Fonte del Ciliegio    | Fonte del Mandorlo        |              |
-| 15    |  MANCA     | Chiesa di Cercina     | Chiesa di Cercina         |              |
+| 15    | [14060287] | Chiesa di Cercina     | Chiesa di Cercina         |              |
 | 15A   |  MANCA     | Via Docciola          | Incrocio sentiero 15      |              |
 | 16    | [2655109]  | Quota 350 sentiero 5  | Caselline                 | Inseriti alcuni segnavia             |
 | 16A   | [11491686] | Piazzale L. da Vinci  | Podere Casaccia           | Sì           |
@@ -214,4 +215,4 @@ In questa sezione è riportato il risultato delle operazioni svolte sui vari sen
 [11491686]:https://www.openstreetmap.org/relation/11491686
 [2000101]:https://www.openstreetmap.org/relation/2000101
 [359554]:https://www.openstreetmap.org/relation/359554
-
+[14060287]:https://www.openstreetmap.org/relation/14060287
