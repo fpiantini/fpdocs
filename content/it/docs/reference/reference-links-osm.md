@@ -38,10 +38,11 @@ Altri siti principali:
 
 ### Pianificazione itinerari
 
-Tramite questi siti è possibile costruire itinerari escursionistici e salvare le relative tracce GPX. Molto utili in fase di pianificazione delle escursioni.
+Tramite questi siti che hanno funzionalità di Routing, è possibile costruire itinerari escursionistici e salvare le relative tracce GPX. Molto utili in fase di pianificazione delle escursioni.
 
-- [Komoot]
-- [Outdoor Active]
+- [AllTrails]: Occorre registrarsi, ma permette di fare tutto gratis
+- [Komoot]: Per usarlo bene occorre fare un abbonamento a pagamento
+- [Outdoor Active]: Per usarlo bene occorre fare un abbonamento a pagamento
 
 ### Visualizzazione ed editing GPX
 
@@ -64,11 +65,34 @@ Si rimanda anche alla pagina dedicata al [Corso SOSEC]({{< ref "corsososec.md" >
 - [Geoscopio Regione Toscana]: strumento webgis con cui è possibile visualizzare ed interrogare i dati geografici della Regione Toscana.
 - [Geoscopio Toscana - Sentieristica]: visualizzazione della sentieristica CAI della regione Toscana.
 
+## Cartografia offline
+
+Per applicazioni su smartphone (e.g. OruxMaps):
+
+ - [OpenAndroMaps]: Le migliori per l'escursionismo tra quelle provate al momento. Hanno il formato pronto per OruxMaps
+ - [FreizeitKarte]: Mappe per Android smartphone/tablet o per ricevitori GNSS Garmin. Hanno il formato pronto per OruxMaps
+
 ## Altri siti / Applicazioni basati su OSM
 
-### Applicazioni per visualizzazione mappe e percorsi:
+### Applicazioni per visualizzazione mappe e percorsi
 
-- [Organic maps](https://organicmaps.app/): "_Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MapsWithMe ([Maps.Me](https://maps.me/)) founders."_
+Posso essere utilizzate per pianificazione itinerari ed editing GPX su PC o Smartphone.
+
+#### PC
+
+Compatibili Linux:
+
+- [QMapShack]: "_Use QMapShack to plan your next outdoor trip or to visualize and archive all the GPS recordings of your past exciting adventures. QMapShack is the next generation of the famous QLandkarte GT application. And of course it's even better and easier to use._"
+- [GpsPrune]: "_GpsPrune is an application for viewing, editing and converting coordinate data from GPS systems. Basically it's a tool to let you play with your GPS data after you get home from your trip._"
+- [Viking]: "_Viking is a free/open source program to manage GPS data. You can import, plot and create tracks, routes and waypoints, show OSM, Bing Aerial and other maps, geotag images, create routes using OSRM, see real-time GPS position (not in Windows), make maps using Mapnik (not in Windows), control items, etc._"
+
+Solo Windows:
+
+- [OkMap]: "_A GPS cartographic software for Windows. Project and walk along your trails!_" (Versione Full a pagamento)
+
+#### Smartphone
+
+- [Organic maps]: "_Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MapsWithMe ([Maps.Me](https://maps.me/)) founders."_
 
 ### Mappamondi (tipo google earth)
 
@@ -76,6 +100,12 @@ Si rimanda anche alla pagina dedicata al [Corso SOSEC]({{< ref "corsososec.md" >
 - [Marble](https://marble.kde.org/): _"a virtual globe and world atlas"_. KDE based, esiste sia per Desktop che per Mobile
 - [WorldWind Explorer](https://worldwind.earth/explorer/)
 - [Web GL Earth](https://www.webglearth.com/)
+
+## Applicazioni per Smartphone
+
+### Per tracciare e seguire percorsi (orientati all'escursionismo)
+
+[OruxMaps]: Il meglio del meglio... Solo per Android.
 
 [OpenStreetMap]:https://www.openstreetmap.org/
 [iD]:https://wiki.openstreetmap.org/wiki/ID
@@ -90,6 +120,7 @@ Si rimanda anche alla pagina dedicata al [Corso SOSEC]({{< ref "corsososec.md" >
 [WayMarked Trails]: https://waymarkedtrails.org/
 [Destination Signs]:http://osm.mueschelsoft.de/destinationsign/example/index.htm
 
+[AllTrails]:https://www.alltrails.com/
 [Komoot]:https://www.komoot.com/
 [Outdoor Active]:https://www.outdooractive.com/it/mypage/
 
@@ -103,4 +134,15 @@ Si rimanda anche alla pagina dedicata al [Corso SOSEC]({{< ref "corsososec.md" >
 
 [Geoscopio Regione Toscana]:https://www.regione.toscana.it/-/geoscopio
 [Geoscopio Toscana - Sentieristica]:http://www502.regione.toscana.it/geoscopio/sentieristica.html
+[OpenAndroMaps]:https://www.openandromaps.org/en
+[FreizeitKarte]:https://www.freizeitkarte-osm.de/
+
+[GpsPrune]:https://activityworkshop.net/software/gpsprune/index.html
+[QMapShack]:https://github.com/Maproom/qmapshack/wiki
+[Viking]:https://sourceforge.net/projects/viking/
+[OkMap]:https://www.okmap.org/default.aspx
+
+[Organic maps]:https://organicmaps.app/
+
+[OruxMaps]:https://www.oruxmaps.com/cs/en/
 
