@@ -170,7 +170,7 @@ Al termine dell'inserimento dei dati cliccare su File -> Upload Data (Ctrl-Shift
 
 In questa sezione è riportato il risultato delle operazioni svolte sui vari sentieri. Le relazioni sono per il momento riportate in modo non ordinato, semplicemente seguendo una sequenza cronologica di analisi.
 
-- [Sentiero 601: Chiesa di San Jacopo a Querceto - Selletta]({{< ref "601_1999047.md" >}} "Sentiero 601")
+- [Sentiero 601: Sesto Fiorentino, Via Veronelli, Sezione CAI - Selletta]({{< ref "601_1999047.md" >}} "Sentiero 601")
 - [Sentiero 602: Le Mulina - Sella degli Scollini]({{< ref "602_8308243.md" >}} "Sentiero 602")
 - [Sentiero 610 (Rompistinchi): Morello - Poggio all'Aia]({{< ref "610_1999618.md" >}} "Sentiero 610")
 - [Sentiero 600: Ceppeto - Croci di Calenzano]({{< ref "600_359554.md" >}} "Sentiero 600")
@@ -178,7 +178,8 @@ In questa sezione è riportato il risultato delle operazioni svolte sui vari sen
 Per questi sentieri sono stati messi a posto i tag su OSM in prospettiva "OSM2CAI", ma c'è ancora da completare l'analisi e l'inserimento di tutte le info extra, come per esempio i segnavia.
 
 - [Sentiero 602c: Via del Polverificio - Fonte dei Seppi]({{< ref "602c_1999046.md" >}} "Sentiero 602c")
-- [Sentiero 603: Colonnata - Piazzale Leonardo da Vinci]({{< ref "603_1999059.md" >}} "Sentiero 603")
+- [Sentiero 603: Sesto Fiorentino, Via Veronelli, Sezione CAI - Piazzale Leonardo da Vinci]({{< ref "603_1999059.md" >}} "Sentiero 603")
+- [Sentiero 603b: Colonnata - Casa Solatio]({{< ref "603b_1999074.md" >}} "Sentiero 603b")
 - [Sentiero 609: Colonnata - Piazzale Leonardo da Vinci]({{< ref "609_4101564.md" >}} "Sentiero 609")
 - [Sentiero 611: Fonte del Vecciolino - Quota 855 sentiero 12]({{< ref "611_1773140.md" >}} "Sentiero 611")
 - [Sentiero 611b: Quota 785 sentiero 611 - Selletta]({{< ref "611B_4107707.md" >}} "Sentiero 611B")
