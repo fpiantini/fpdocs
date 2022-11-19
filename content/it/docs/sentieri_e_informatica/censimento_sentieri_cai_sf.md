@@ -170,7 +170,7 @@ Al termine dell'inserimento dei dati cliccare su File -> Upload Data (Ctrl-Shift
 
 In questa sezione è riportato il risultato delle operazioni svolte sui vari sentieri. Le relazioni sono per il momento riportate in modo non ordinato, semplicemente seguendo una sequenza cronologica di analisi.
 
-- [Sentiero 1: Chiesa di San Jacopo a Querceto - Selletta]({{< ref "01_1999047.md" >}} "Sentiero 1")
+- [Sentiero 1: Chiesa di San Jacopo a Querceto - Selletta]({{< ref "601_1999047.md" >}} "Sentiero 1")
 - [Sentiero 602: Le Mulina - Sella degli Scollini]({{< ref "602_8308243.md" >}} "Sentiero 2")
 - [Sentiero 10 (Rompistinchi): Morello - Poggio all'Aia]({{< ref "10_1999618.md" >}} "Sentiero 2")
 - [Sentiero 00: Ceppeto - Croci di Calenzano]({{< ref "00_359554.md" >}} "Sentiero 2")
