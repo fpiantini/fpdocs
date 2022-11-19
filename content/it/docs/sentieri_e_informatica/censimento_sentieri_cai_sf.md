@@ -170,10 +170,10 @@ Al termine dell'inserimento dei dati cliccare su File -> Upload Data (Ctrl-Shift
 
 In questa sezione è riportato il risultato delle operazioni svolte sui vari sentieri. Le relazioni sono per il momento riportate in modo non ordinato, semplicemente seguendo una sequenza cronologica di analisi.
 
-- [Sentiero 601: Chiesa di San Jacopo a Querceto - Selletta]({{< ref "601_1999047.md" >}} "Sentiero 1")
-- [Sentiero 602: Le Mulina - Sella degli Scollini]({{< ref "602_8308243.md" >}} "Sentiero 2")
-- [Sentiero 10 (Rompistinchi): Morello - Poggio all'Aia]({{< ref "10_1999618.md" >}} "Sentiero 2")
-- [Sentiero 600: Ceppeto - Croci di Calenzano]({{< ref "600_359554.md" >}} "Sentiero 2")
+- [Sentiero 601: Chiesa di San Jacopo a Querceto - Selletta]({{< ref "601_1999047.md" >}} "Sentiero 601")
+- [Sentiero 602: Le Mulina - Sella degli Scollini]({{< ref "602_8308243.md" >}} "Sentiero 602")
+- [Sentiero 610 (Rompistinchi): Morello - Poggio all'Aia]({{< ref "610_1999618.md" >}} "Sentiero 610")
+- [Sentiero 600: Ceppeto - Croci di Calenzano]({{< ref "600_359554.md" >}} "Sentiero 600")
 
 Per questi sentieri sono stati messi a posto i tag su OSM in prospettiva "OSM2CAI", ma c'è ancora da completare l'analisi e l'inserimento di tutte le info extra, come per esempio i segnavia.
 
