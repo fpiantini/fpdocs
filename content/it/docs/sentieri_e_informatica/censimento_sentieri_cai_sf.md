@@ -69,39 +69,40 @@ out skel qt;
 
 Nella seguente tabella è riportato il mapping tra il numero del sentiero e il numero della relazione OSM relativa (verifica effettuata il 6/8/2021).
 
-| Numero| Rel. OSM   | From                   | To                        | Analizzato                |
-|-------|------------|------------------------|---------------------------|---------------------------|
-| 601   | [1999047]  | Chiesa di Querceto     | Selletta                  | Sì                        |
-| 601B  | [8308393]  | Via di Isola           | Collina                   |                           |
-| 602   | [8308243]  | Le Mulina              | Sella degli Scollini      | Sì                        |
-| 602A  | [14070680] | Fonte di Lonciano      | Incrocio sentiero 2B      |                           |
-| 602B  | [4101290]  | Incrocio sentiero 3    | Incrocio sentiero 2       |                           |
-| 602C  | [1999046]  | Via del Polverificio   | Fonte dei Seppi           | Sì                        |
-| 603   | [1999059]  | Colonnata              | Piazzale L. da Vinci      | Sì                        |
-| 603A  | [13733605] | Colonnata              | Carmignanello             |                           |
-| 603B  | [1999074]  | Colonnata              | Viottolone - Casa Solatio | Sì                        |
-| 604   | [1999075]  | Castellina             | Quota 380 sentiero 3      |                           |
-| 605   |  [309966]  | Serpiolle              | Quota 328 sentiero 4      | Inseriti alcuni segnavia  |
-| 605B  | [2000095]  | Via di Malafrasca      | Piazzale L. da Vinci      |                           |
-| 606   | [1999086]  | S.S. 65 - Paterno      | Ceppeto - Scollini        |                           |
-| 606B  | [1999094]  | Quota 380 sentiero 6   | Sella degli Scollini      |                           |
-| 607   | [1774594]  | Cerreto Maggio         | Sella delle Colline       |                           |
-| 607B  | [1999095]  | Capannaccia            | Sella delle Colline       |                           |
-| 608   | [1999619]  | Legri - Volmiano       | Poggio all'Aia            |                           |
-| 608B  | [2120055]  | n.a.                   | n.a.                      |                           |
-| 609   | [4101564]  | Ponte sul Chiosina     | Quota 570 sentiero 00     |                           |
-| 609B  | [4107569]  | Leccio                 | Quota 590 sentiero 9      |                           |
-| 610   | [1999618]  | Morello                | Poggio all'Aia            | Sì                        |
-| 611   | [1773140]  | Fonte del Vecciolino   | Quota 855 sentiero 12     |                           |
-| 611B  | [4107707]  | Quota 785 sentiero 611 | Selletta                  |                           |
-| 612   | [1773135]  | Fonte del Vecciolino   | n.a.                      |                           |
-| 612B  | [2192844]  | Fonte del Ciliegio     | Fonte del Mandorlo        |                           |
-| 615   | [14060287] | Chiesa di Cercina      | Chiesa di Cercina         |                           |
-| 615A  | [14099795] | Via Docciola           | Incrocio sentiero 15      |                           |
-| 616   | [2655109]  | Quota 350 sentiero 5   | Caselline                 | Inseriti alcuni segnavia  |
-| 616A  | [11491686] | Piazzale L. da Vinci   | Podere Casaccia           | Sì                        |
-| 600   | [359554]   | Ceppeto                | Croci di Calenzano        | Parzialmente              |
-| 600A  | [2000101]  | Piazzale L. da Vinci   | Poggio al Giro            |                           |
+| Numero| Rel. OSM   | From                   | To                        | Analizzato                | Traccia    |
+|-------|------------|------------------------|---------------------------|---------------------------|------------|
+| 601   | [1999047]  | Chiesa di Querceto     | Selletta                  | Sì                        | [5392515]  |
+| 601B  | [8308393]  | Via di Isola           | Collina                   |                           |            |
+| 602   | [8308243]  | Le Mulina              | Sella degli Scollini      | Sì                        | [5392531]  |
+| 602A  | [14070680] | Fonte di Lonciano      | Incrocio sentiero 2B      |                           |            |
+| 602B  | [4101290]  | Incrocio sentiero 3    | Incrocio sentiero 2       |                           |            |
+| 602C  | [1999046]  | Via del Polverificio   | Fonte dei Seppi           | Sì                        | x          |
+| 603   | [1999059]  | Colonnata              | Piazzale L. da Vinci      | Sì                        | x          |
+| 603A  | [13733605] | Colonnata              | Carmignanello             |                           |            |
+| 603B  | [1999074]  | Colonnata              | Viottolone - Casa Solatio | Sì                        | x          |
+| 604   | [1999075]  | Castellina             | Quota 380 sentiero 3      |                           |            |
+| 604A  | [14093930] | Parcheggio via Gramsci | Sentiero 604 (m. 250)     |                           | x          |
+| 605   | [309966]   | Serpiolle              | Quota 328 sentiero 4      | Inseriti alcuni segnavia  |            |
+| 605B  | [2000095]  | Via di Malafrasca      | Piazzale L. da Vinci      |                           |            |
+| 606   | [1999086]  | S.S. 65 - Paterno      | Ceppeto - Scollini        |                           |            |
+| 606B  | [1999094]  | Quota 380 sentiero 6   | Sella degli Scollini      |                           |            |
+| 607   | [1774594]  | Cerreto Maggio         | Sella delle Colline       |                           |            |
+| 607B  | [1999095]  | Capannaccia            | Sella delle Colline       |                           |            |
+| 608   | [1999619]  | Legri - Volmiano       | Poggio all'Aia            |                           |            |
+| 608B  | [2120055]  | n.a.                   | n.a.                      |                           |            |
+| 609   | [4101564]  | Ponte sul Chiosina     | Quota 570 sentiero 00     |                           | x          |
+| 609B  | [4107569]  | Leccio                 | Quota 590 sentiero 9      |                           | x          |
+| 610   | [1999618]  | Morello                | Poggio all'Aia            | Sì                        | x          |
+| 611   | [1773140]  | Fonte del Vecciolino   | Quota 855 sentiero 12     |                           |            |
+| 611B  | [4107707]  | Quota 785 sentiero 611 | Selletta                  |                           |            |
+| 612   | [1773135]  | Fonte del Vecciolino   | n.a.                      |                           |            |
+| 612B  | [2192844]  | Fonte del Ciliegio     | Fonte del Mandorlo        |                           |            |
+| 615   | [14060287] | Chiesa di Cercina      | Chiesa di Cercina         |                           | x          |
+| 615A  | [14099795] | Via Docciola           | Incrocio sentiero 15      |                           |            |
+| 616   | [2655109]  | Quota 350 sentiero 5   | Caselline                 | Inseriti alcuni segnavia  |            |
+| 616A  | [11491686] | Piazzale L. da Vinci   | Podere Casaccia           | Sì                        |            |
+| 600   | [359554]   | Ceppeto                | Croci di Calenzano        | Parzialmente              |            |
+| 600A  | [2000101]  | Piazzale L. da Vinci   | Poggio al Giro            |                           |            |
 
 ## Esempi di operazioni di Editing
 
@@ -177,15 +178,16 @@ In questa sezione è riportato il risultato delle operazioni svolte sui vari sen
 
 Per questi sentieri sono stati messi a posto i tag su OSM in prospettiva "OSM2CAI", ma c'è ancora da completare l'analisi e l'inserimento di tutte le info extra, come per esempio i segnavia.
 
-- [Sentiero 602c: Via del Polverificio - Fonte dei Seppi]({{< ref "602c_1999046.md" >}} "Sentiero 602c")
+- [Sentiero 602C: Via del Polverificio - Fonte dei Seppi]({{< ref "602C_1999046.md" >}} "Sentiero 602C")
 - [Sentiero 603: Sesto Fiorentino, Via Veronelli, Sezione CAI - Piazzale Leonardo da Vinci]({{< ref "603_1999059.md" >}} "Sentiero 603")
-- [Sentiero 603b: Colonnata - Casa Solatio]({{< ref "603b_1999074.md" >}} "Sentiero 603b")
+- [Sentiero 603B: Colonnata - Casa Solatio]({{< ref "603B_1999074.md" >}} "Sentiero 603B")
 - [Sentiero 609: Colonnata - Piazzale Leonardo da Vinci]({{< ref "609_4101564.md" >}} "Sentiero 609")
 - [Sentiero 611: Fonte del Vecciolino - Quota 855 sentiero 12]({{< ref "611_1773140.md" >}} "Sentiero 611")
-- [Sentiero 611b: Quota 785 sentiero 611 - Selletta]({{< ref "611B_4107707.md" >}} "Sentiero 611B")
-- [Sentiero 616a: Piazzale Leonardo da Vinci - Podere Casaccia]({{< ref "616a_11491686.md" >}} "Sentiero 616A")
-- [Sentiero 600a: Piazzale L. da Vinci - Poggio al Giro]({{< ref "600A_2000101.md" >}} "Sentiero 600A")
-- [Sentiero 602b: Incrocio sentiero 3 - Incrocio sentiero 2]({{< ref "602B_4101290.md" >}} "Sentiero 602B")
+- [Sentiero 611B: Quota 785 sentiero 611 - Selletta]({{< ref "611B_4107707.md" >}} "Sentiero 611B")
+- [Sentiero 616A: Piazzale Leonardo da Vinci - Podere Casaccia]({{< ref "616a_11491686.md" >}} "Sentiero 616A")
+- [Sentiero 600A: Piazzale L. da Vinci - Poggio al Giro]({{< ref "600A_2000101.md" >}} "Sentiero 600A")
+- [Sentiero 602B: Incrocio sentiero 3 - Incrocio sentiero 2]({{< ref "602B_4101290.md" >}} "Sentiero 602B")
+- [Sentiero 604A: Parcheggio via Gramsci - Incrocio sentiero 604 (quota 250 m)]({{< ref "604A_140093930.md" >}} "Sentiero 604A")
 
 [Openstreetmap]:https://www.openstreetmap.org/
 [Wikimedia Commons]:https://commons.wikimedia.org/wiki/Main_Page
@@ -208,6 +210,7 @@ Per questi sentieri sono stati messi a posto i tag su OSM in prospettiva "OSM2CA
 [13733605]:https://www.openstreetmap.org/relation/13733605
 [1999074]:https://www.openstreetmap.org/relation/1999074
 [1999075]:https://www.openstreetmap.org/relation/1999075
+[14093930]:https://www.openstreetmap.org/relation/14093930
 [309966]:https://www.openstreetmap.org/relation/309966
 [2000095]:https://www.openstreetmap.org/relation/2000095
 [1999086]:https://www.openstreetmap.org/relation/1999086
@@ -229,4 +232,7 @@ Per questi sentieri sono stati messi a posto i tag su OSM in prospettiva "OSM2CA
 [359554]:https://www.openstreetmap.org/relation/359554
 [14060287]:https://www.openstreetmap.org/relation/14060287
 [14099795]:https://www.openstreetmap.org/relation/14099795
+
+[5392515]:https://www.openstreetmap.org/user/fpiantini/traces/5392515
+[5392531]:https://www.openstreetmap.org/user/fpiantini/traces/5392531
 
