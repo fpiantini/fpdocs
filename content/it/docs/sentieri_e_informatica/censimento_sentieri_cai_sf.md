@@ -178,6 +178,7 @@ In questa sezione è riportato il risultato delle operazioni svolte sui vari sen
 Per questi sentieri sono stati messi a posto i tag su OSM in prospettiva "OSM2CAI", ma c'è ancora da completare l'analisi e l'inserimento di tutte le info extra, come per esempio i segnavia.
 
 - [Sentiero 602c: Via del Polverificio - Fonte dei Seppi]({{< ref "602c_1999046.md" >}} "Sentiero 602c")
+- [Sentiero 603: Colonnata - Piazzale Leonardo da Vinci]({{< ref "603_1999059.md" >}} "Sentiero 603")
 - [Sentiero 611: Fonte del Vecciolino - Quota 855 sentiero 12]({{< ref "611_1773140.md" >}} "Sentiero 611")
 - [Sentiero 611b: Quota 785 sentiero 611 - Selletta]({{< ref "611B_4107707.md" >}} "Sentiero 611B")
 - [Sentiero 600a: Piazzale L. da Vinci - Poggio al Giro]({{< ref "600A_2000101.md" >}} "Sentiero 600A")
