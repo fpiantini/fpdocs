@@ -69,40 +69,40 @@ out skel qt;
 
 Nella seguente tabella è riportato il mapping tra il numero del sentiero e il numero della relazione OSM relativa (verifica effettuata il 6/8/2021).
 
-| Numero | Rel. OSM   | From                   | To                        | Analizzato | Num. nuova | Traccia    |
-|--------|------------|------------------------|---------------------------|------------|------------|------------|
-| [601]  | [1999047]  | Chiesa di Querceto     | Selletta                  | Sì         | Sì         | x          |
-| [601B] | [8308393]  | Via di Isola           | Collina                   |            | Sì         |            |
-| [602]  | [8308243]  | Le Mulina              | Sella degli Scollini      | Sì         | Sì         | x          |
-| [602A] | [14070680] | Fonte di Lonciano      | Incrocio sentiero 2B      |            | Sì         |            |
-| [602B] | [4101290]  | Incrocio sentiero 3    | Incrocio sentiero 2       | In parte   | Sì         |            |
-| [602C] | [1999046]  | Via del Polverificio   | Fonte dei Seppi           | Sì         | Sì         | x          |
-| [603]  | [1999059]  | Colonnata              | Piazzale L. da Vinci      | Sì         | Sì         | x          |
-| [603A] | [13733605] | Colonnata              | Carmignanello             |            | Sì         |            |
-| [603B] | [1999074]  | Colonnata              | Viottolone - Casa Solatio | Sì         | Sì         | x          |
-| [604]  | [1999075]  | Castellina             | Quota 380 sentiero 3      |            |            |            |
-| [604A] | [14093930] | Parcheggio via Gramsci | Sentiero 604 (m. 250)     | In parte   | Sì         | x          |
-| [605]  | [309966]   | Serpiolle              | Quota 328 sentiero 4      | In parte   |            |            |
-| [605B] | [2000095]  | Via di Malafrasca      | Piazzale L. da Vinci      |            |            |            |
-| [606]  | [1999086]  | S.S. 65 - Paterno      | Ceppeto - Scollini        |            |            |            |
-| [606B] | [1999094]  | Quota 380 sentiero 6   | Sella degli Scollini      |            |            |            |
-| [607]  | [1774594]  | Cerreto Maggio         | Sella delle Colline       |            |            |            |
-| [607B] | [1999095]  | Capannaccia            | Sella delle Colline       |            |            |            |
-| [608]  | [1999619]  | Legri - Volmiano       | Poggio all'Aia            |            |            |            |
-| [608B] | [2120055]  | n.a.                   | n.a.                      |            |            |            |
-| [609]  | [4101564]  | Ponte sul Chiosina     | Quota 570 sentiero 00     | In parte   | Sì         | Da rifare  |
-| [609B] | [4107569]  | Leccio                 | Quota 590 sentiero 9      | In parte   | Sì         | x          |
-| [610]  | [1999618]  | Morello                | Poggio all'Aia            | Sì         | Sì         | x          |
-| [611]  | [1773140]  | Fonte del Vecciolino   | Quota 855 sentiero 12     | In parte   | Sì         |            |
-| [611B] | [4107707]  | Quota 785 sentiero 611 | Selletta                  | In parte   | Sì         |            |
-| [612]  | [1773135]  | Fonte del Vecciolino   | Poggio Casaccia           |            |            |            |
-| [612B] | [2192844]  | Fonte del Ciliegio     | Fonte del Mandorlo        |            |            |            |
-| [615]  | [14060287] | Chiesa di Cercina      | Chiesa di Cercina         |            |            | x          |
-| [615A] | [14099795] | Via Docciola           | Incrocio sentiero 15      |            |            |            |
-| [616]  | [2655109]  | Quota 350 sentiero 5   | Caselline                 | In parte   |            |            |
-| [616A] | [11491686] | Piazzale L. da Vinci   | Podere Casaccia           | Sì         | Sì         |            |
-| [600]  | [359554]   | Ceppeto                | Croci di Calenzano        | In parte   | Sì         |            |
-| [600A] | [2000101]  | Piazzale L. da Vinci   | Poggio al Giro            |            | Sì         |            |
+| Numero | Rel. OSM   | From                           | To                        | Analizzato | Num. nuova | Traccia    |
+|--------|------------|--------------------------------|---------------------------|------------|------------|------------|
+| [601]  | [1999047]  | Via Veronelli, Sezione CAI     | Selletta                  | Sì         | Sì         | x          |
+| [601B] | [8308393]  | Via di Isola                   | Collina                   |            | Sì         |            |
+| [602]  | [8308243]  | Le Mulina                      | Sella degli Scollini      | Sì         | Sì         | x          |
+| [602A] | [14070680] | Fonte di Lonciano              | Incrocio sentiero 2B      |            | Sì         |            |
+| [602B] | [4101290]  | Incrocio sentiero 3            | Incrocio sentiero 2       | In parte   | Sì         |            |
+| [602C] | [1999046]  | Via del Polverificio           | Fonte dei Seppi           | Sì         | Sì         | x          |
+| [603]  | [1999059]  | Via Veronelli, Sezione CAI     | Piazzale L. da Vinci      | Sì         | Sì         | x          |
+| [603A] | [13733605] | Colonnata                      | Carmignanello             |            | Sì         |            |
+| [603B] | [1999074]  | Colonnata                      | Viottolone - Casa Solatio | Sì         | Sì         | x          |
+| [604]  | [1999075]  | Via Gramsci, parcheggio Quinto | Quota 380 sentiero 3      |            | Sì         |            |
+| [604A] | [14093930] | Parcheggio via Gramsci         | Sentiero 604 (m. 250)     | In parte   | Sì         | x          |
+| [605]  | [309966]   | Serpiolle                      | Quota 328 sentiero 4      | In parte   |            |            |
+| [605B] | [2000095]  | Via di Malafrasca              | Piazzale L. da Vinci      |            |            |            |
+| [606]  | [1999086]  | S.S. 65 - Paterno              | Ceppeto - Scollini        |            |            |            |
+| [606B] | [1999094]  | Quota 380 sentiero 6           | Sella degli Scollini      |            |            |            |
+| [607]  | [1774594]  | Cerreto Maggio                 | Sella delle Colline       |            |            |            |
+| [607B] | [1999095]  | Capannaccia                    | Sella delle Colline       |            |            |            |
+| [608]  | [1999619]  | Legri - Volmiano               | Poggio all'Aia            |            |            |            |
+| [608B] | [2120055]  | n.a.                           | n.a.                      |            |            |            |
+| [609]  | [4101564]  | Ponte sul Chiosina             | Quota 570 sentiero 00     | In parte   | Sì         | Da rifare  |
+| [609B] | [4107569]  | Leccio                         | Quota 590 sentiero 9      | In parte   | Sì         | x          |
+| [610]  | [1999618]  | Morello                        | Poggio all'Aia            | Sì         | Sì         | x          |
+| [611]  | [1773140]  | Fonte del Vecciolino           | Quota 855 sentiero 12     | In parte   | Sì         |            |
+| [611B] | [4107707]  | Quota 785 sentiero 611         | Selletta                  | In parte   | Sì         |            |
+| [612]  | [1773135]  | Fonte del Vecciolino           | Poggio Casaccia           |            |            |            |
+| [612B] | [2192844]  | Fonte del Ciliegio             | Fonte del Mandorlo        |            |            |            |
+| [615]  | [14060287] | Chiesa di Cercina              | Chiesa di Cercina         |            |            | x          |
+| [615A] | [14099795] | Via Docciola                   | Incrocio sentiero 15      |            |            |            |
+| [616]  | [2655109]  | Quota 350 sentiero 5           | Caselline                 | In parte   |            |            |
+| [616A] | [11491686] | Piazzale L. da Vinci           | Podere Casaccia           | Sì         | Sì         |            |
+| [600]  | [359554]   | Ceppeto                        | Croci di Calenzano        | In parte   | Sì         |            |
+| [600A] | [2000101]  | Piazzale L. da Vinci           | Poggio al Giro            |            | Sì         |            |
 
 ## Esempi di operazioni di Editing
 
