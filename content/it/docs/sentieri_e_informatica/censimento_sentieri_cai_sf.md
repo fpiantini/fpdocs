@@ -72,9 +72,9 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | Numero | Rel. OSM   | From                   | To                        | Analizzato | Num. nuova | Traccia    |
 |--------|------------|------------------------|---------------------------|------------|------------|------------|
 | [601]  | [1999047]  | Chiesa di Querceto     | Selletta                  | Sì         | Sì         | x          |
-| [601B] | [8308393]  | Via di Isola           | Collina                   |            |            |            |
+| [601B] | [8308393]  | Via di Isola           | Collina                   |            | Sì         |            |
 | [602]  | [8308243]  | Le Mulina              | Sella degli Scollini      | Sì         | Sì         | x          |
-| [602A] | [14070680] | Fonte di Lonciano      | Incrocio sentiero 2B      |            |            |            |
+| [602A] | [14070680] | Fonte di Lonciano      | Incrocio sentiero 2B      |            | Sì         |            |
 | [602B] | [4101290]  | Incrocio sentiero 3    | Incrocio sentiero 2       | In parte   | Sì         |            |
 | [602C] | [1999046]  | Via del Polverificio   | Fonte dei Seppi           | Sì         | Sì         | x          |
 | [603]  | [1999059]  | Colonnata              | Piazzale L. da Vinci      | Sì         | Sì         | x          |
