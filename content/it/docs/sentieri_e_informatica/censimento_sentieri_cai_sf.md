@@ -87,7 +87,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [606]  | [1999086]  | S.S. 65 - Paterno              | Ceppeto - Scollini        |            | Sì         |            |
 | [606B] | [1999094]  | Quota 380 sentiero 6           | Sella degli Scollini      |            | Sì         |            |
 | [607]  | [1774594]  | Cerreto Maggio                 | Sella delle Colline       |            | Sì         |            |
-| [607B] | [1999095]  | Capannaccia                    | Sella delle Colline       |            |            |            |
+| [607B] | [1999095]  | Capannaccia                    | Sella delle Colline       |            | Sì         |            |
 | [608]  | [1999619]  | Legri - Volmiano               | Poggio all'Aia            |            |            |            |
 | [608B] | [2120055]  | n.a.                           | n.a.                      |            |            |            |
 | [609]  | [4101564]  | Ponte sul Chiosina             | Quota 570 sentiero 00     | In parte   | Sì         | Da rifare  |
