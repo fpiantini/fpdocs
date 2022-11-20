@@ -88,8 +88,8 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [606B] | [1999094]  | Quota 380 sentiero 6           | Sella degli Scollini      |            | Sì         |            |
 | [607]  | [1774594]  | Cerreto Maggio                 | Sella delle Colline       |            | Sì         |            |
 | [607B] | [1999095]  | Capannaccia                    | Sella delle Colline       |            | Sì         |            |
-| [608]  | [1999619]  | Legri - Volmiano               | Poggio all'Aia            |            |            |            |
-| [608B] | [2120055]  | n.a.                           | n.a.                      |            |            |            |
+| [608]  | [1999619]  | Legri - Volmiano               | Poggio all'Aia            |            | Sì         |            |
+| [608B] | [2120055]  | Quercia Mencola                | Poggio Leccio             |            |            |            |
 | [609]  | [4101564]  | Ponte sul Chiosina             | Quota 570 sentiero 00     | In parte   | Sì         | Da rifare  |
 | [609B] | [4107569]  | Leccio                         | Quota 590 sentiero 9      | In parte   | Sì         | x          |
 | [610]  | [1999618]  | Morello                        | Poggio all'Aia            | Sì         | Sì         | x          |
