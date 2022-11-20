@@ -96,7 +96,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [611]  | [1773140]  | Fonte del Vecciolino           | Quota 855 sentiero 12     | In parte   | Sì         |            |
 | [611B] | [4107707]  | Quota 785 sentiero 611         | Selletta                  | In parte   | Sì         |            |
 | [612]  | [1773135]  | Fonte del Vecciolino           | Poggio Casaccia           |            | Sì         |            |
-| [612B] | [2192844]  | Fonte del Ciliegio             | Fonte del Mandorlo        |            |            |            |
+| [612B] | [2192844]  | Fonte del Ciliegio             | Fonte del Nocciolo        |            | Sì         |            |
 | [615]  | [14060287] | Chiesa di Cercina              | Chiesa di Cercina         |            |            | x          |
 | [615A] | [14099795] | Via Docciola                   | Incrocio sentiero 15      |            |            |            |
 | [616]  | [2655109]  | Quota 350 sentiero 5           | Caselline                 | In parte   |            |            |
