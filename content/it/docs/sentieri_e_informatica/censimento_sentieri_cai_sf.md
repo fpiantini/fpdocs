@@ -186,7 +186,7 @@ Per questi sentieri sono stati messi a posto i tag su OSM in prospettiva "OSM2CA
 - [Sentiero 616A: Piazzale Leonardo da Vinci - Podere Casaccia]({{< ref "616a_11491686.md" >}} "Sentiero 616A")
 - [Sentiero 600A: Piazzale L. da Vinci - Poggio al Giro]({{< ref "600A_2000101.md" >}} "Sentiero 600A")
 - [Sentiero 602B: Incrocio sentiero 3 - Incrocio sentiero 2]({{< ref "602B_4101290.md" >}} "Sentiero 602B")
-- [Sentiero 604A: Parcheggio via Gramsci - Incrocio sentiero 604 (quota 250 m)]({{< ref "604A_140093930.md" >}} "Sentiero 604A")
+- [Sentiero 604A: Parcheggio via Gramsci - Incrocio sentiero 604 (quota 250 m)]({{< ref "604A_14093930.md" >}} "Sentiero 604A")
 
 [Openstreetmap]:https://www.openstreetmap.org/
 [Wikimedia Commons]:https://commons.wikimedia.org/wiki/Main_Page
