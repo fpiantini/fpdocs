@@ -35,6 +35,7 @@ Altri siti principali:
 
 - [WayMarked Trails]: _"[...] website that shows recreational routes from OpenStreetMap and lets you inspect the routes and selected details"_. Utilissimo per visualizzare percorsi e segnavia. Codice disponibile su [GitHub](https://github.com/waymarkedtrails).
 - [Destination Signs]: _"shows the content of relations with `type=destination_sign`, `direction_*` tags on guideposts as well as `destination` tags on highways and guideposts."_. Utile per visualizzare i segnavia. Codice disponibile su [GitHub](https://github.com/mueschel/OsmDestinationSigns).
+- [Mapy.cz]: Un sito fatto particolarmente bene dal punto di vista grafico dove visualizzare cartografia, strade, sentieri e informazioni turistiche.
 
 ### Pianificazione itinerari
 
@@ -59,6 +60,7 @@ Si rimanda anche alla pagina dedicata al [Corso SOSEC]({{< ref "corsososec.md" >
 - [Pagina CAI] su OSM: riporta per esempio i tag da utilizzare quando si modificano oggetti OSM che riguardano sentieri, rifugi e altri oggetti CAI su OSM.
 - [Pagina REI] su OSM: informazioni sulla Rete Escursionistica Italiana gestita dal CAI.
 - [GeoResQ]: Sito collegato all'app GeoresQ, dove si possono visualizzare e scaricare le tracce registrate con l'app.
+- [OSM2CAI]: Piattaforma software per importare dati sui sentieri presenti su OSM nel DB CAI usato per i siti istituzionali CAI.
 
 ## Cartografia online
 
@@ -119,6 +121,7 @@ Solo Windows:
 
 [WayMarked Trails]: https://waymarkedtrails.org/
 [Destination Signs]:http://osm.mueschelsoft.de/destinationsign/example/index.htm
+[Mapy.cz]:https://en.mapy.cz/
 
 [AllTrails]:https://www.alltrails.com/
 [Komoot]:https://www.komoot.com/
@@ -131,6 +134,7 @@ Solo Windows:
 [GeoResQ]: https://www.georesq.it/
 [Pagina CAI]:https://wiki.openstreetmap.org/wiki/IT:CAI
 [Pagina REI]:https://wiki.openstreetmap.org/wiki/REI
+[OSM2CAI]:https://osm2cai.cai.it/login
 
 [Geoscopio Regione Toscana]:https://www.regione.toscana.it/-/geoscopio
 [Geoscopio Toscana - Sentieristica]:http://www502.regione.toscana.it/geoscopio/sentieristica.html
