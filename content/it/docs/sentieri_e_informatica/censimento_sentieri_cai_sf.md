@@ -82,7 +82,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [603B] | [1999074]  | Colonnata                      | Viottolone - Casa Solatio | Sì         | Sì         | x          |
 | [604]  | [1999075]  | Via Gramsci, parcheggio Quinto | Quota 380 sentiero 3      |            | Sì         |            |
 | [604A] | [14093930] | Parcheggio via Gramsci         | Sentiero 604 (m. 250)     | In parte   | Sì         | x          |
-| [605]  | [309966]   | Serpiolle                      | Quota 328 sentiero 4      | In parte   |            |            |
+| [605]  | [309966]   | Serpiolle                      | Quota 328 sentiero 4      | In parte   | Sì         |            |
 | [605B] | [2000095]  | Via di Malafrasca              | Piazzale L. da Vinci      |            |            |            |
 | [606]  | [1999086]  | S.S. 65 - Paterno              | Ceppeto - Scollini        |            |            |            |
 | [606B] | [1999094]  | Quota 380 sentiero 6           | Sella degli Scollini      |            |            |            |
