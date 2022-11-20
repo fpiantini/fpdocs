@@ -114,7 +114,6 @@ Qui la cosa più semplice è operare direttamente su OSM nella pagina della rela
 - `cai_scale`
 - `descent`
 - `from`
-- `name`
 - `network`
 - `operator`
 - `osmc:symbol`
