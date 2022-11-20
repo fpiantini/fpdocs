@@ -78,7 +78,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [602B] | [4101290]  | Incrocio sentiero 3    | Incrocio sentiero 2       | In parte   | Sì         |            |
 | [602C] | [1999046]  | Via del Polverificio   | Fonte dei Seppi           | Sì         | Sì         | x          |
 | [603]  | [1999059]  | Colonnata              | Piazzale L. da Vinci      | Sì         | Sì         | x          |
-| [603A] | [13733605] | Colonnata              | Carmignanello             |            |            |            |
+| [603A] | [13733605] | Colonnata              | Carmignanello             |            | Sì         |            |
 | [603B] | [1999074]  | Colonnata              | Viottolone - Casa Solatio | Sì         | Sì         | x          |
 | [604]  | [1999075]  | Castellina             | Quota 380 sentiero 3      |            |            |            |
 | [604A] | [14093930] | Parcheggio via Gramsci | Sentiero 604 (m. 250)     | In parte   | Sì         | x          |
