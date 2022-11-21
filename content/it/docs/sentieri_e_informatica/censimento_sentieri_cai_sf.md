@@ -80,7 +80,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [603]  | [1999059]  | Via Veronelli, Sezione CAI     | Piazzale L. da Vinci      | Sì         | x          |          |
 | [603A] | [13733605] | Colonnata                      | Carmignanello             |            |            |          |
 | [603B] | [1999074]  | Colonnata                      | Viottolone - Casa Solatio | Sì         | x          |          |
-| [604]  | [1999075]  | Via Gramsci, parcheggio Quinto | Quota 380 sentiero 3      |            |            |          |
+| [604]  | [1999075]  | Via Gramsci, parcheggio Quinto | Quota 380 sentiero 3      |            | x          |          |
 | [604A] | [14093930] | Parcheggio via Gramsci         | Sentiero 604 (m. 250)     | In parte   | x          |          |
 | [605]  | [309966]   | Serpiolle                      | Quota 328 sentiero 4      | In parte   |            |          |
 | [605B] | [2000095]  | Via di Malafrasca              | Piazzale L. da Vinci      |            |            |          |
@@ -89,7 +89,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [607]  | [1774594]  | Cerreto Maggio                 | Sella delle Colline       |            |            |          |
 | [607B] | [1999095]  | Capannaccia                    | Sella delle Colline       |            |            |          |
 | [608]  | [1999619]  | Legri - Volmiano               | Poggio all'Aia            |            |            |          |
-| [608B] | [2120055]  | Quercia Mencola                | Poggio Leccio             |            |            |          |
+| [608B] | [2120055]  | Quercia Mencola                | Poggio Leccio             |            | x          |          |
 | [609]  | [4101564]  | Ponte sul Chiosina             | Quota 570 sentiero 00     | In parte   | Da rifare  |          |
 | [609B] | [4107569]  | Leccio                         | Quota 590 sentiero 9      | In parte   | x          |          |
 | [610]  | [1999618]  | Morello                        | Poggio all'Aia            | Sì         | x          |          |
