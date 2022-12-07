@@ -94,7 +94,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [609B] | [4107569]  | Leccio                           | Quota 590 sentiero 9                  | In parte   | x          | **Sì** | x        |
 | [610]  | [1999618]  | Morello                          | Poggio all'Aia                        | Sì         | x          | No     | x        |
 | [611]  | [1773140]  | Fonte del Vecciolino             | Quota 855 sentiero 12                 | In parte   |            | **Sì** |          |
-| [611B] | [4107707]  | Quota 785 sentiero 611           | Selletta                              | In parte   |            | **Sì** |          |
+| [611B] | [4107707]  | Quota 785 sentiero 611           | Selletta                              | In parte   | x (fb)     | **Sì** | x        |
 | [612]  | [1773135]  | Fonte del Vecciolino             | Poggio Casaccia                       |            |            | No     |          |
 | [612B] | [2192844]  | Fonte del Ciliegio               | Fonte del Nocciolo                    |            |            | No     |          |
 | [615]  | [14060287] | Chiesa di Cercina                | Chiesa di Cercina                     |            | Da rifare  | No     |          |
@@ -102,7 +102,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [616]  | [2655109]  | Quota 350 sentiero 5             | Caselline                             | In parte   |            | No     |          |
 | [616A] | [11491686] | Piazzale L. da Vinci             | Podere Casaccia                       | Sì         |            | No     |          |
 | [600]  | [359554]   | Ceppeto                          | Croci di Calenzano                    | In parte   |            | No     |          |
-| [600A] | [2000101]  | Piazzale L. da Vinci             | Poggio al Giro                        |            |            | **Sì** |          |
+| [600A] | [2000101]  | Piazzale L. da Vinci             | Poggio al Giro                        |            | x (fb)     | **Sì** | x        |
 
 ## Esempi di operazioni di Editing
 
