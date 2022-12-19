@@ -83,7 +83,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [604]  | [1999075]  | Parcheggio campo Atletica Quinto | Ponte Spartimoglie (m. 380 - sent. 3) |            | x          | No     | x        |
 | [604A] | [14093930] | Parcheggio via Gramsci           | Sentiero 604 (m. 250)                 | In parte   | x          | No     | x        |
 | [605]  | [309966]   | Serpiolle                        | Quota 328 sentiero 4                  | In parte   |            | No     |          |
-| [605B] | [2000095]  | Via di Malafrasca                | Piazzale L. da Vinci                  |            |            | No     |          |
+| [605B] | [2000095]  | Via di Malafrasca                | Piazzale L. da Vinci                  |            | x          | **Si** | x        |
 | [606]  | [1999086]  | S.S. 65 - Paterno                | Ceppeto - Scollini                    |            |            | No     |          |
 | [606B] | [1999094]  | Quota 380 sentiero 6             | Sella degli Scollini                  |            |            | No     |          |
 | [607]  | [1774594]  | Cerreto Maggio                   | Sella delle Colline                   |            |            | No     |          |
@@ -100,7 +100,7 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [615]  | [14060287] | Chiesa di Cercina                | Chiesa di Cercina                     |            | Da rifare  | No     |          |
 | [615A] | [14099795] | Via Docciola                     | Incrocio sentiero 15                  |            | x          | No     | x        |
 | [616]  | [2655109]  | Quota 350 sentiero 5             | Caselline                             | In parte   |            | No     |          |
-| [616A] | [11491686] | Piazzale L. da Vinci             | Podere Casaccia                       | Sì         |            | No     |          |
+| [616A] | [11491686] | Piazzale L. da Vinci             | Podere Casaccia                       | Sì         | x          | No     | x        |
 | [600]  | [359554]   | Ceppeto                          | Croci di Calenzano                    | In parte   |            | No     |          |
 | [600A] | [2000101]  | Piazzale L. da Vinci             | Poggio al Giro                        |            | x (fb)     | **Sì** | x        |
 
