@@ -73,12 +73,12 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 |--------|------------|----------------------------------|---------------------------------------|------------|------------|--------|----------|
 | [601]  | [1999047]  | Via Veronelli, Sezione CAI       | Selletta                              | Sì         | x          | **Sì** | x        |
 | [601B] | [8308393]  | Via di Isola                     | Collina                               |            |            | No     |          |
-| [602]  | [8308243]  | Le Mulina                        | Sella degli Scollini                  | Sì         | Da rifare  | **Sì** |          |
-| [602A] | [14070680] | Fonte di Lonciano                | Incrocio sentiero 2B                  |            |            | No     |          |
-| [602B] | [4101290]  | Incrocio sentiero 3              | Incrocio sentiero 2                   | In parte   |            | **Sì** |          |
+| [602]  | [8308243]  | Le Mulina                        | Sella degli Scollini                  | Sì         | x          | **Sì** | x        |
+| [602A] | [14070680] | Fonte di Lonciano                | Incrocio sentiero 2B                  | Sì         | x          | No     | x        |
+| [602B] | [4101290]  | Incrocio sentiero 3              | Incrocio sentiero 2                   | Sì         | x          | **Sì** | x        |
 | [602C] | [1999046]  | Via del Polverificio             | Fonte dei Seppi                       | Sì         | x          | No     | x        |
 | [603]  | [1999059]  | Via Veronelli, Sezione CAI       | Piazzale L. da Vinci                  | Sì         | x          | No     | x        |
-| [603A] | [13733605] | Colonnata                        | Carmignanello                         |            |            | No     |          |
+| [603A] | [13733605] | Colonnata                        | Carmignanello                         | Sì         | x          | **Sì** | x        |
 | [603B] | [1999074]  | Colonnata                        | Casa Solatio                          | Sì         | x          | No     | x        |
 | [604]  | [1999075]  | Parcheggio campo Atletica Quinto | Ponte Spartimoglie (m. 380 - sent. 3) |            | x          | No     | x        |
 | [604A] | [14093930] | Parcheggio via Gramsci           | Sentiero 604 (m. 250)                 | In parte   | x          | No     | x        |
@@ -90,12 +90,12 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [607B] | [1999095]  | Capannaccia                      | Sella delle Colline                   |            |            | No     |          |
 | [608]  | [1999619]  | Legri - Volmiano                 | Poggio all'Aia                        |            |            | No     |          |
 | [608B] | [2120055]  | Quercia Mencola                  | Poggio Leccio(m. 590 - sent. 8 e 9)   |            | x          | No     | x        |
-| [609]  | [4101564]  | Ponte sul Chiosina               | Poggio Leccio (m. 590 sent. 8 e 8B)   | In parte   | Da rifare  | No     |          |
+| [609]  | [4101564]  | Ponte sul Chiosina               | Poggio Leccio (m. 590 sent. 8 e 8B)   | In parte   | x          | No     | x        |
 | [609B] | [4107569]  | Leccio                           | Quota 590 sentiero 9                  | In parte   | x          | **Sì** | x        |
 | [610]  | [1999618]  | Morello                          | Poggio all'Aia                        | Sì         | x          | No     | x        |
-| [611]  | [1773140]  | Fonte del Vecciolino             | Quota 855 sentiero 12                 | In parte   |            | **Sì** |          |
+| [611]  | [1773140]  | Fonte del Vecciolino             | Quota 855 sentiero 12                 | In parte   | x          | **Sì** | x        |
 | [611B] | [4107707]  | Quota 785 sentiero 611           | Selletta                              | In parte   | x (fb)     | **Sì** | x        |
-| [612]  | [1773135]  | Fonte del Vecciolino             | Poggio Casaccia                       |            |            | No     |          |
+| [612]  | [1773135]  | Fonte del Vecciolino             | Poggio Casaccia                       |            | x          | No     | x        |
 | [612B] | [2192844]  | Fonte del Ciliegio               | Fonte del Nocciolo                    |            |            | No     |          |
 | [615]  | [14060287] | Chiesa di Cercina                | Chiesa di Cercina                     |            | Da rifare  | No     |          |
 | [615A] | [14099795] | Via Docciola                     | Incrocio sentiero 15                  |            | x          | No     | x        |
