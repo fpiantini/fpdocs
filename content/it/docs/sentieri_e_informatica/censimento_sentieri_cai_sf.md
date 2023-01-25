@@ -85,9 +85,9 @@ Nella seguente tabella è riportato il mapping tra il numero del sentiero e il n
 | [605]  | [309966]   | Serpiolle                        | Quota 328 sentiero 4                  | In parte   |            | No     |          |
 | [605B] | [2000095]  | Via di Malafrasca                | Piazzale L. da Vinci                  |            | x          | **Si** | x        |
 | [606]  | [1999086]  | S.S. 65 - Paterno                | Ceppeto - Scollini                    |            |            | No     |          |
-| [606B] | [1999094]  | Quota 380 sentiero 6             | Sella degli Scollini                  |            |            | No     |          |
+| [606B] | [1999094]  | Quota 380 sentiero 6             | Sella degli Scollini                  |            | x          | No     | x        |
 | [607]  | [1774594]  | Cerreto Maggio                   | Sella delle Colline                   |            |            | No     |          |
-| [607B] | [1999095]  | Capannaccia                      | Sella delle Colline                   |            |            | No     |          |
+| [607B] | [1999095]  | Capannaccia                      | Sella delle Colline                   |            | x          | No     | x        |
 | [608]  | [1999619]  | Legri - Volmiano                 | Poggio all'Aia                        |            |            | No     |          |
 | [608B] | [2120055]  | Quercia Mencola                  | Poggio Leccio(m. 590 - sent. 8 e 9)   |            | x          | No     | x        |
 | [609]  | [4101564]  | Ponte sul Chiosina               | Poggio Leccio (m. 590 sent. 8 e 8B)   | In parte   | x          | No     | x        |
