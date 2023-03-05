@@ -1,9 +1,8 @@
 ---
-title: "Censimento Sentieri CAI della Sezione di Sesto Fiorentino"
-linkTitle: "Censimento Sentieri CAI della Sezione di Sesto Fiorentino"
-weight: 40
+title: "Censimento Sentieri CAI della sezione di Sesto Fiorentino"
+linkTitle: "Censimento Sentieri CAI della sezione di Sesto Fiorentino"
+weight: 999
 ---
-
 
 ## Introduzione: cosa si vuol fare e come
 
@@ -298,5 +297,6 @@ out skel qt;
 [616A]:{{< ref "616A_11491686.md" >}} "Sentiero 616A"
 [600]:{{< ref "600_359554.md" >}} "Sentiero 600"
 [600A]:{{< ref "600A_2000101.md" >}} "Sentiero 600A"
+
 
 

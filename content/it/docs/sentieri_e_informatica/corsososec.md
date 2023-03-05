@@ -116,7 +116,7 @@ out body;
 out skel qt;
 ```
 
-Per l'elenco delle relazioni sotto la responsabilità della sezione di Sesto Fiorentino, vedere la [pagina dedicata](({{< ref "censimento_sentieri_cai_sf.md" >}} "Censimento Sentieri CAI Sesto Fiorentino"))
+Per l'elenco delle relazioni sotto la responsabilità della sezione di Sesto Fiorentino, vedere la [pagina dedicata](({{< ref "censimento_sentieri_sesto_fiorentino/_index.md" >}} "Censimento Sentieri CAI Sesto Fiorentino"))
 
 Altri codici di sezioni CAI:
 
